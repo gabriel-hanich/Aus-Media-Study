@@ -5,9 +5,16 @@ sys.path.append('../')
 import csv
 import datetime
 import time
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer 
 import json
+from collections import Counter
+
 import matplotlib.pyplot as plt
+
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer 
+
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk import pos_tag
 
 from lib.media import outlet, article
 from lib.data import getData, fileStringToDate
@@ -15,10 +22,15 @@ from lib.data import getData, fileStringToDate
 # Constants
 dataVersion = 1
 doAutoEarlyDates = False
+topicWordsCount = 3
+doPOSTagging = False
 
 setEarlyDate = datetime.datetime(2021, 9, 15)
 setLateDate = datetime.datetime(2021, 12, 2)
 
+wantedPOS = ["NN", "NNS", "NNP", "NNPS", ]
+
+stopWords = stopwords.words("english") 
 
 # Get data for all the outlets 
 outletFile = open("Media Outlets.csv", "r", encoding="utf-8")
@@ -64,40 +76,71 @@ earliestDate = earliestDate.replace(hour=0, minute=0)
 latestDate = latestDate.replace(hour=0, minute=0)
 
 # Get dayDict for each outlet
-for mediaOutlet in outletList:
+for mediaIndex, mediaOutlet in enumerate(outletList):
+    # mediaOutlet = outletList[0]
+    # mediaIndex = 0
     excludedCount = 0 # Counter that tracks how many articles are excluded due to search parameters
-    dayFreqDict = {}
+    dayDict = {}
     for date in daterange(earliestDate, latestDate):
-        dayFreqDict[date] = {}
-        dayFreqDict[date]["articles"] = []
-    
+        dayDict[date] = {}
+        dayDict[date]["articles"] = []
+
     for article in mediaOutlet.articleList:
         articleDate = article.date.replace(hour=0, minute=0)
         try:
-            dayFreqDict[articleDate]["articles"].append(article)
+            dayDict[articleDate]["articles"].append(article)
         except KeyError:
             excludedCount += 1
-    
-    for date in list(dayFreqDict.keys()):
+
+    # Get average sentiment for day
+    for date in list(dayDict.keys()):
         totalSentiment = 0
-        for articleIndex, article in enumerate(dayFreqDict[date]["articles"]):
+        for articleIndex, article in enumerate(dayDict[date]["articles"]):
             totalSentiment += article.sentimentScore
         try:
-            dayFreqDict[date]["avgSentiment"] = totalSentiment / articleIndex
+            dayDict[date]["avgSentiment"] = totalSentiment / articleIndex
         except ZeroDivisionError:
-            dayFreqDict[date]["avgSentiment"] = 0
+            dayDict[date]["avgSentiment"] = 0
 
-    mediaOutlet.setDayDict(dayFreqDict)
+    # Get keywords for day
+    for dateIndex, date in enumerate(list(dayDict.keys())):
+        articleWords = []
+        for article in dayDict[date]["articles"]:
+            for word in word_tokenize(article.headline):
+                articleWords.append(word)
 
+        filteredWords = []
+        for word in articleWords:
+            if word.lower() not in stopWords:
+                if len(word) > 2:
+                    filteredWords.append(word)
+                    if doPOSTagging:
+                        if pos_tag([word])[0][1] in wantedPOS:
+                            filteredWords.append(word)
+                    else:
+                        filteredWords.append(word)
+        filteredWords = list(Counter(filteredWords).most_common(topicWordsCount))
+        dayDict[date]["topicWords"] = filteredWords
+        if doPOSTagging:
+            print(str(dateIndex) + "/" + str(len(list(dayDict.keys()))))
+    mediaOutlet.setDayDict(dayDict)
+
+    print(str(mediaIndex + 1) + "/" + str(len(outletList)))
 
 # Plot things
 for mediaOutlet in outletList:
+    #mediaOutlet = outletList[0]
     yList = []
     for date in list(mediaOutlet.dayDict.keys()):
-        yList.append(mediaOutlet.dayDict[date]["avgSentiment"])
+        yVal = len(mediaOutlet.dayDict[date]["articles"])
+        yList.append(yVal)
+        try:
+            plt.annotate(str(mediaOutlet.dayDict[date]["topicWords"][0][0]), [date, yVal])
+        except IndexError: # If date had no articles published, no topicwords are present
+            pass
 
     plt.plot(list(mediaOutlet.dayDict.keys()), yList, label=mediaOutlet.name)
 
-plt.legend()
-plt.ylim(-1, 1)
-plt.show()
+    plt.legend()
+    #plt.ylim(-1, 1)
+    plt.show()
