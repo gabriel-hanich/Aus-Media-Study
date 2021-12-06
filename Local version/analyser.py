@@ -20,14 +20,16 @@ from lib.media import outlet, article
 from lib.data import getData, fileStringToDate
 
 # Constants
-dataVersion = 1
-doAutoEarlyDates = False
-topicWordsCount = 3
-doPOSTagging = False
+dataVersion = 1 # Which dataset is used by the analyser
+doAutoEarlyDates = False # (Dis/En) able automatic date searching 
+topicWordsCount = 3 # Amount of keywords stored per day
+doPOSTagging = False # (Dis/En) able POS tagging (Parts of Speech)
+doTitleWordsSearch = True # (Dis/En) able only analysing articles with certain keywords in the title
 
 setEarlyDate = datetime.datetime(2021, 9, 15)
 setLateDate = datetime.datetime(2021, 12, 2)
 
+wantedTitleWords = ["gladys", "Berejiklian"]
 wantedPOS = ["NN", "NNS", "NNP", "NNPS", ]
 
 stopWords = stopwords.words("english") 
@@ -88,7 +90,14 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
     for article in mediaOutlet.articleList:
         articleDate = article.date.replace(hour=0, minute=0)
         try:
-            dayDict[articleDate]["articles"].append(article)
+            if doTitleWordsSearch:
+                for word in word_tokenize(article.headline):
+                    if word.lower() in wantedTitleWords:
+                        dayDict[articleDate]["articles"].append(article)
+                        break
+            else:
+                dayDict[articleDate]["articles"].append(article)
+
         except KeyError:
             excludedCount += 1
 
@@ -98,7 +107,7 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
         for articleIndex, article in enumerate(dayDict[date]["articles"]):
             totalSentiment += article.sentimentScore
         try:
-            dayDict[date]["avgSentiment"] = totalSentiment / articleIndex
+            dayDict[date]["avgSentiment"] = totalSentiment / len(dayDict[date]["articles"])
         except ZeroDivisionError:
             dayDict[date]["avgSentiment"] = 0
 
@@ -113,7 +122,6 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
         for word in articleWords:
             if word.lower() not in stopWords:
                 if len(word) > 2:
-                    filteredWords.append(word)
                     if doPOSTagging:
                         if pos_tag([word])[0][1] in wantedPOS:
                             filteredWords.append(word)
