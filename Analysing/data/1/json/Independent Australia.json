@@ -1,2706 +1,2666 @@
 {
-    "name": "Independent Australia",
-    "articles": [
-        {
-            "headline": " Why Australia needs to become a secular republic",
-            "description": "Why Australia needs to become a secular republic",
-            "author": "Max Wallace",
-            "date": 1631584800.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " AUDIO EXCLUSIVE: The Sun Rises interviews the United Australia Party",
-            "description": "AUDIO EXCLUSIVE: The Sun Rises interviews the United Australia Party",
-            "author": "David Donovan",
-            "date": 1631516400.0,
-            "intensityScore": 0.7739
-        },
-        {
-            "headline": " 'Dobber King' Tony Abbott doesn't care for being dobbed upon",
-            "description": "'Dobber King' Tony Abbott doesn't care for being dobbed upon",
-            "author": "Andrew P Street",
-            "date": 1631570400.0,
-            "intensityScore": -0.3875
-        },
-        {
-            "headline": " Scott Morrison's religious delusions are dangerous",
-            "description": "Scott Morrison's religious delusions are dangerous",
-            "author": "George Grundy",
-            "date": 1625176800.0,
-            "intensityScore": -0.4767
-        },
-        {
-            "headline": " Morrison, Finlay and a tame \u2013 but not Tame enough \u2013\u00a0Women\u2019s Summit",
-            "description": "Morrison, Finlay and a tame \u2013 but not Tame enough \u2013\u00a0Women\u2019s Summit",
-            "author": "Michelle Pini",
-            "date": 1631138400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Like the U.S., Australians angry about COVID mismanagement",
-            "description": "Like the U.S., Australians angry about COVID mismanagement",
-            "author": "Sue Arnold",
-            "date": 1631512800.0,
-            "intensityScore": -0.2023
-        },
-        {
-            "headline": " Rules around travel exemptions unclear, stranding Australians",
-            "description": "Rules around travel exemptions unclear, stranding Australians",
-            "author": "Lina Li",
-            "date": 1631498400.0,
-            "intensityScore": -0.25
-        },
-        {
-            "headline": " Morrison Government sets more 'worst ever' economic records",
-            "description": "Morrison Government sets more 'worst ever' economic records",
-            "author": "Alan Austin",
-            "date": 1631484000.0,
-            "intensityScore": -0.659
-        },
-        {
-            "headline": " Melbourne: It's a shame about the name",
-            "description": "Melbourne: It's a shame about the name",
-            "author": "GJ Burchall",
-            "date": 1631430000.0,
-            "intensityScore": -0.4767
-        },
-        {
-            "headline": " IA BOOK CLUB: Chris Bowen's 'Labor People'",
-            "description": "IA BOOK CLUB: Chris Bowen's 'Labor People'",
-            "author": "Craig Minns",
-            "date": 1631415600.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Publishers lose High Court appeal in Dylan Voller defamation case",
-            "description": "Publishers lose High Court appeal in Dylan Voller defamation case",
-            "author": "Martin Hirst",
-            "date": 1631401200.0,
-            "intensityScore": -0.4019
-        },
-        {
-            "headline": " A reflection of decades of failed U.S. national security policy",
-            "description": "A reflection of decades of failed U.S. national security policy",
-            "author": "Katrina vanden Heuvel",
-            "date": 1631340000.0,
-            "intensityScore": -0.2263
-        },
-        {
-            "headline": " Scott Morrison's Father's Day hypocrisy",
-            "description": "Scott Morrison's Father's Day hypocrisy",
-            "author": "Hannah Thomas",
-            "date": 1631325600.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " How the anti-lockdown fundraising machine keeps running",
-            "description": "How the anti-lockdown fundraising machine keeps running",
-            "author": "Tom Tanuki",
-            "date": 1631311200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Politicians still refuse to take action on climate disaster",
-            "description": "Politicians still refuse to take action on climate disaster",
-            "author": "Sonali Kolhatkar",
-            "date": 1631253600.0,
-            "intensityScore": -0.743
-        },
-        {
-            "headline": " WHAT'S ON: Turning Point: 9/11 and the War on Terror \u2014 inside America's failure",
-            "description": "WHAT'S ON: Turning Point: 9/11 and the War on Terror \u2014 inside America's failure",
-            "author": "Dan Jensen",
-            "date": 1631239200.0,
-            "intensityScore": -0.891
-        },
-        {
-            "headline": " CARTOONS: Mark David is running his own race",
-            "description": "CARTOONS: Mark David is running his own race",
-            "author": "Mark David",
-            "date": 1631232000.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Coalition responsible for the demise of Australia's Family Court",
-            "description": "Coalition responsible for the demise of Australia's Family Court",
-            "author": "Graham Perrett",
-            "date": 1631224800.0,
-            "intensityScore": 0.3182
-        },
-        {
-            "headline": " Australia's first anti-corruption party: FIN is now official",
-            "description": "Australia's first anti-corruption party: FIN is now official",
-            "author": "Ross Jones",
-            "date": 1631170800.0,
-            "intensityScore": 0.4019
-        },
-        {
-            "headline": " A betrayal of farmers: The Nationals are lackeys for coal",
-            "description": "A betrayal of farmers: The Nationals are lackeys for coal",
-            "author": "David Paull",
-            "date": 1631167200.0,
-            "intensityScore": -0.5859
-        },
-        {
-            "headline": " The Nationals and Murdoch media support nuclear power ahead of COP26",
-            "description": "The Nationals and Murdoch media support nuclear power ahead of COP26",
-            "author": "Noel Wauchope",
-            "date": 1631152800.0,
-            "intensityScore": 0.4019
-        },
-        {
-            "headline": " Flashback 2017: Matthew Guy and the 'mafia': Top five Liberal Party wise-Guys",
-            "description": "Flashback 2017: Matthew Guy and the 'mafia': Top five Liberal Party wise-Guys",
-            "author": "David Donovan",
-            "date": 1631086200.0,
-            "intensityScore": 0.5423
-        },
-        {
-            "headline": " Governments to blame for vaccine confusion",
-            "description": "Governments to blame for vaccine confusion",
-            "author": "Sue Arnold",
-            "date": 1631080800.0,
-            "intensityScore": -0.5574
-        },
-        {
-            "headline": " Flashback 2018: The bad Guys",
-            "description": "Flashback 2018: The bad Guys",
-            "author": "David Donovan",
-            "date": 1630998000.0,
-            "intensityScore": -0.5423
-        },
-        {
-            "headline": " Scott Morrison has destroyed Australia's humanity",
-            "description": "Scott Morrison has destroyed Australia's humanity",
-            "author": "Rosalind Fuller",
-            "date": 1631066400.0,
-            "intensityScore": -0.4939
-        },
-        {
-            "headline": " The Liberal Government doesn't care if you die",
-            "description": "The Liberal Government doesn't care if you die",
-            "author": "Jennifer Wilson",
-            "date": 1630965600.0,
-            "intensityScore": -0.7599
-        },
-        {
-            "headline": " Government wants NBN Co to focus on the money",
-            "description": "Government wants NBN Co to focus on the money",
-            "author": "Paul Budde",
-            "date": 1631052000.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " COVID-19 saving AAT from burgeoning backlogs",
-            "description": "COVID-19 saving AAT from burgeoning backlogs",
-            "author": "Abul Rizvi",
-            "date": 1630994400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Clive Palmer's UAP membership may be an offer you can't refuse",
-            "description": "Clive Palmer's UAP membership may be an offer you can't refuse",
-            "author": "Ross Jones",
-            "date": 1630909800.0,
-            "intensityScore": 0.2235
-        },
-        {
-            "headline": " Afghanistan, \u2018anarchy\u2019 and confecting a China threat",
-            "description": "Afghanistan, \u2018anarchy\u2019 and confecting a China threat",
-            "author": "William Briggs",
-            "date": 1630980000.0,
-            "intensityScore": -0.5267
-        },
-        {
-            "headline": " Murdoch and the big Australian lie",
-            "description": "Murdoch and the big Australian lie",
-            "author": "David Donovan and Michelle Pini",
-            "date": 1630562400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Media bias for Berejiklian and against Andrews is clear",
-            "description": "Media bias for Berejiklian and against Andrews is clear",
-            "author": "Victoria Fielding",
-            "date": 1630908000.0,
-            "intensityScore": 0.296
-        },
-        {
-            "headline": " Gladys boasts about how her Government is teaching us to 'live with COVID'",
-            "description": "Gladys boasts about how her Government is teaching us to 'live with COVID'",
-            "author": "Rocky Dabscheck",
-            "date": 1630893600.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Frydenberg dubiously claims Australia\u2019s lagging economy \u2018leads the pack\u2019",
-            "description": "Frydenberg dubiously claims Australia\u2019s lagging economy \u2018leads the pack\u2019",
-            "author": "Alan Austin",
-            "date": 1630879200.0,
-            "intensityScore": -0.2732
-        },
-        {
-            "headline": " IA Book Club: The Shortest History of War",
-            "description": "IA Book Club: The Shortest History of War",
-            "author": "Jim Kable",
-            "date": 1630825200.0,
-            "intensityScore": -0.5994
-        },
-        {
-            "headline": " Fire, floods and felonies: Relocation the only option for Rohingya",
-            "description": "Fire, floods and felonies: Relocation the only option for Rohingya",
-            "author": "Habibur Rahman",
-            "date": 1630807200.0,
-            "intensityScore": -0.7096
-        },
-        {
-            "headline": " First Nations Voice to Parliament: It's time to rethink democracy",
-            "description": "First Nations Voice to Parliament: It's time to rethink democracy",
-            "author": "Matthew Butera",
-            "date": 1630796400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Richard Pusey: The \u2018most hated man in Australia\u2019 walks free",
-            "description": "Richard Pusey: The \u2018most hated man in Australia\u2019 walks free",
-            "author": "Elroy Rosenberg",
-            "date": 1630720800.0,
-            "intensityScore": -0.2263
-        },
-        {
-            "headline": " Help is needed for culturally diverse communities during pandemic",
-            "description": "Help is needed for culturally diverse communities during pandemic",
-            "author": "Sabrin Farooqui",
-            "date": 1630735200.0,
-            "intensityScore": 0.4019
-        },
-        {
-            "headline": " Texas abortion laws: A modern Handmaid's Tale",
-            "description": "Texas abortion laws: A modern Handmaid's Tale",
-            "author": "George Grundy",
-            "date": 1630706400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " WHAT'S ON: Nine Perfect Strangers \u2014 the truth shall set you free",
-            "description": "WHAT'S ON: Nine Perfect Strangers \u2014 the truth shall set you free",
-            "author": "Dan Jensen",
-            "date": 1630648800.0,
-            "intensityScore": 0.8519
-        },
-        {
-            "headline": " Afghanistan is a warning of global denialism",
-            "description": "Afghanistan is a warning of global denialism",
-            "author": "Robert Niven",
-            "date": 1630634400.0,
-            "intensityScore": -0.34
-        },
-        {
-            "headline": " CARTOONS: Mark David is making promises",
-            "description": "CARTOONS: Mark David is making promises",
-            "author": "Mark David",
-            "date": 1630627200.0,
-            "intensityScore": 0.3818
-        },
-        {
-            "headline": " Class action may reform laws for the 'forgotten children'",
-            "description": "Class action may reform laws for the 'forgotten children'",
-            "author": "Gerry Georgatos",
-            "date": 1630620000.0,
-            "intensityScore": -0.2263
-        },
-        {
-            "headline": " Coal in China: The good, the bad and the ugly",
-            "description": "Coal in China: The good, the bad and the ugly",
-            "author": "John Quiggin",
-            "date": 1630548000.0,
-            "intensityScore": -0.5994
-        },
-        {
-            "headline": " Home Affairs delays visa processing while applications drop",
-            "description": "Home Affairs delays visa processing while applications drop",
-            "author": "Lina Li",
-            "date": 1630533600.0,
-            "intensityScore": -0.2732
-        },
-        {
-            "headline": " Agriculture Visas: Modern slavery continues",
-            "description": "Agriculture Visas: Modern slavery continues",
-            "author": "Abul Rizvi",
-            "date": 1630476000.0,
-            "intensityScore": -0.7003
-        },
-        {
-            "headline": " New koala recovery plan is just more political spin",
-            "description": "New koala recovery plan is just more political spin",
-            "author": "Sue Arnold",
-            "date": 1630461600.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Government still holding Australia back in global broadband ranking",
-            "description": "Government still holding Australia back in global broadband ranking",
-            "author": "Paul Budde",
-            "date": 1630447200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Uniform resource rent tax for a better future",
-            "description": "Uniform resource rent tax for a better future",
-            "author": "Emma Dawson",
-            "date": 1630389600.0,
-            "intensityScore": 0.4404
-        },
-        {
-            "headline": " Climate crisis putting a billion children at \u2018extremely high risk\u2019",
-            "description": "Climate crisis putting a billion children at \u2018extremely high risk\u2019",
-            "author": "Reynard Loki",
-            "date": 1630375200.0,
-            "intensityScore": -0.6249
-        },
-        {
-            "headline": " Ningaloo natural beauty under threat if Woodside has its way",
-            "description": "Ningaloo natural beauty under threat if Woodside has its way",
-            "author": "Corinna Elaine",
-            "date": 1630206000.0,
-            "intensityScore": 0.4404
-        },
-        {
-            "headline": " Clive Palmer\u2019s campaign will have a body count",
-            "description": "Clive Palmer\u2019s campaign will have a body count",
-            "author": "Andrew P Street",
-            "date": 1630360800.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Wren's Week: Government negligence is dooming our nation",
-            "description": "Wren's Week: Government negligence is dooming our nation",
-            "author": "John Wren",
-            "date": 1630303200.0,
-            "intensityScore": -0.5859
-        },
-        {
-            "headline": " Picnics for the rich and curfews for the poor",
-            "description": "Picnics for the rich and curfews for the poor",
-            "author": "Davey Heller",
-            "date": 1630288800.0,
-            "intensityScore": 0.128
-        },
-        {
-            "headline": " Corrupting democracy \u2014 we need to say &quot;FIN&quot;",
-            "description": "Corrupting democracy \u2014 we need to say &amp;quot;FIN&amp;quot;",
-            "author": "Ross Jones",
-            "date": 1629943200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Morrison Government sets records in economic mismanagement",
-            "description": "Morrison Government sets records in economic mismanagement",
-            "author": "Alan Austin",
-            "date": 1630274400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Charlie Watts: Farewell to the gentleman drummer",
-            "description": "Charlie Watts: Farewell to the gentleman drummer",
-            "author": "Jenny LeComte",
-            "date": 1630220400.0,
-            "intensityScore": 0.0
-        },
+    "10/04/2021": [
         {
             "headline": " Scott Morrison's political motives have turned against him",
             "description": "Scott Morrison's political motives have turned against him",
             "author": "Matthew Butera",
-            "date": 1618036200.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "11/04/2021": [],
+    "12/04/2021": [],
+    "13/04/2021": [],
+    "14/04/2021": [],
+    "15/04/2021": [],
+    "16/04/2021": [],
+    "17/04/2021": [],
+    "18/04/2021": [],
+    "19/04/2021": [],
+    "20/04/2021": [],
+    "21/04/2021": [],
+    "22/04/2021": [],
+    "23/04/2021": [],
+    "24/04/2021": [],
+    "25/04/2021": [],
+    "26/04/2021": [],
+    "27/04/2021": [],
+    "28/04/2021": [],
+    "29/04/2021": [],
+    "30/04/2021": [],
+    "01/05/2021": [],
+    "02/05/2021": [],
+    "03/05/2021": [],
+    "04/05/2021": [],
+    "05/05/2021": [],
+    "06/05/2021": [],
+    "07/05/2021": [],
+    "08/05/2021": [],
+    "09/05/2021": [],
+    "10/05/2021": [],
+    "11/05/2021": [],
+    "12/05/2021": [],
+    "13/05/2021": [],
+    "14/05/2021": [
         {
-            "headline": " Palmer's propaganda fodder for far-Right rebellion",
-            "description": "Palmer's propaganda fodder for far-Right rebellion",
-            "author": "David Paull",
-            "date": 1630191600.0,
-            "intensityScore": -0.3612
-        },
-        {
-            "headline": " Government and media misinformation making the pandemic tougher",
-            "description": "Government and media misinformation making the pandemic tougher",
-            "author": "Joel Jenkins",
-            "date": 1630130400.0,
-            "intensityScore": -0.1531
-        },
-        {
-            "headline": " Australian business needs a more sophisticated COVID-19 relief program",
-            "description": "Australian business needs a more sophisticated COVID-19 relief program",
-            "author": "Tom McCarthy",
-            "date": 1630116000.0,
-            "intensityScore": 0.8051
-        },
-        {
-            "headline": " The unreality of anti-lockdown activism",
-            "description": "The unreality of anti-lockdown activism",
-            "author": "Tom Tanuki",
-            "date": 1630101600.0,
+            "headline": " The Morrison clown show goes on",
+            "description": "The Morrison clown show goes on",
+            "author": "Lee Duffield",
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "15/05/2021": [],
+    "16/05/2021": [],
+    "17/05/2021": [],
+    "18/05/2021": [],
+    "19/05/2021": [],
+    "20/05/2021": [],
+    "21/05/2021": [],
+    "22/05/2021": [],
+    "23/05/2021": [],
+    "24/05/2021": [],
+    "25/05/2021": [],
+    "26/05/2021": [],
+    "27/05/2021": [],
+    "28/05/2021": [],
+    "29/05/2021": [],
+    "30/05/2021": [],
+    "31/05/2021": [],
+    "01/06/2021": [],
+    "02/06/2021": [],
+    "03/06/2021": [],
+    "04/06/2021": [],
+    "05/06/2021": [],
+    "06/06/2021": [],
+    "07/06/2021": [],
+    "08/06/2021": [],
+    "09/06/2021": [],
+    "10/06/2021": [],
+    "11/06/2021": [],
+    "12/06/2021": [],
+    "13/06/2021": [],
+    "14/06/2021": [],
+    "15/06/2021": [],
+    "16/06/2021": [],
+    "17/06/2021": [],
+    "18/06/2021": [],
+    "19/06/2021": [],
+    "20/06/2021": [],
+    "21/06/2021": [],
+    "22/06/2021": [],
+    "23/06/2021": [],
+    "24/06/2021": [],
+    "25/06/2021": [],
+    "26/06/2021": [],
+    "27/06/2021": [],
+    "28/06/2021": [],
+    "29/06/2021": [],
+    "30/06/2021": [],
+    "01/07/2021": [],
+    "02/07/2021": [
         {
-            "headline": " WHAT'S ON: Candyman \u2014 more than just a horror film",
-            "description": "WHAT'S ON: Candyman \u2014 more than just a horror film",
-            "author": "Dan Jensen",
-            "date": 1630044000.0,
-            "intensityScore": -0.5719
-        },
-        {
-            "headline": " Rapid testing and viral mapping can help beat COVID-19",
-            "description": "Rapid testing and viral mapping can help beat COVID-19",
-            "author": "Kim Sawyer",
-            "date": 1630029600.0,
-            "intensityScore": 0.4019
-        },
-        {
-            "headline": " CARTOONS: The four phases of Mark David",
-            "description": "CARTOONS: The four phases of Mark David",
-            "author": "Mark David",
-            "date": 1630022400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Canada\u2019s aggressive plans for immigration post-COVID-19",
-            "description": "Canada\u2019s aggressive plans for immigration post-COVID-19",
-            "author": "Abul Rizvi",
-            "date": 1630015200.0,
-            "intensityScore": -0.1531
-        },
-        {
-            "headline": " JOHN PILGER: How the U.S. ruined Afghanistan playing the 'great game'",
-            "description": "JOHN PILGER: How the U.S. ruined Afghanistan playing the 'great game'",
-            "author": "John Pilger",
-            "date": 1629961200.0,
-            "intensityScore": 0.4215
-        },
-        {
-            "headline": " Biden's Summit for Democracy an opportunity to attack China",
-            "description": "Biden's Summit for Democracy an opportunity to attack China",
-            "author": "William Briggs",
-            "date": 1629957600.0,
-            "intensityScore": -0.0772
-        },
-        {
-            "headline": " The debate around Australia's nation-building Inland Rail project",
-            "description": "The debate around Australia's nation-building Inland Rail project",
-            "author": "Craig Minns",
-            "date": 1629928800.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Government downplays COVID-19 case numbers to open up sooner",
-            "description": "Government downplays COVID-19 case numbers to open up sooner",
-            "author": "Jennifer Wilson",
-            "date": 1629871200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " From vaccines to Afghanistan, Scotty does nothing",
-            "description": "From vaccines to Afghanistan, Scotty does nothing",
-            "author": "Michelle Pini",
-            "date": 1629338400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Multiple match thrillers set the tone for footy finals",
-            "description": "Multiple match thrillers set the tone for footy finals",
-            "author": "Ronny Lerner",
-            "date": 1629851400.0,
-            "intensityScore": 0.0258
-        },
-        {
-            "headline": " Bloody Idiot of the Week \u2014 Episode 23: Morrison and Dutton fight to the death",
-            "description": "Bloody Idiot of the Week \u2014 Episode 23: Morrison and Dutton fight to the death",
-            "author": "Dan Jensen",
-            "date": 1629856800.0,
-            "intensityScore": -0.9136
-        },
-        {
-            "headline": " The economic triumph of the Afghanistan war",
-            "description": "The economic triumph of the Afghanistan war",
+            "headline": " Scott Morrison's religious delusions are dangerous",
+            "description": "Scott Morrison's religious delusions are dangerous",
             "author": "George Grundy",
-            "date": 1629856800.0,
-            "intensityScore": -0.2023
-        },
+            "intensityScore": -0.4767
+        }
+    ],
+    "03/07/2021": [],
+    "04/07/2021": [],
+    "05/07/2021": [],
+    "06/07/2021": [],
+    "07/07/2021": [],
+    "08/07/2021": [],
+    "09/07/2021": [],
+    "10/07/2021": [],
+    "11/07/2021": [],
+    "12/07/2021": [],
+    "13/07/2021": [],
+    "14/07/2021": [],
+    "15/07/2021": [],
+    "16/07/2021": [],
+    "17/07/2021": [],
+    "18/07/2021": [],
+    "19/07/2021": [],
+    "20/07/2021": [],
+    "21/07/2021": [],
+    "22/07/2021": [],
+    "23/07/2021": [],
+    "24/07/2021": [],
+    "25/07/2021": [],
+    "26/07/2021": [],
+    "27/07/2021": [],
+    "28/07/2021": [],
+    "29/07/2021": [],
+    "30/07/2021": [],
+    "31/07/2021": [],
+    "01/08/2021": [],
+    "02/08/2021": [],
+    "03/08/2021": [],
+    "04/08/2021": [],
+    "05/08/2021": [],
+    "06/08/2021": [],
+    "07/08/2021": [],
+    "08/08/2021": [],
+    "09/08/2021": [],
+    "10/08/2021": [],
+    "11/08/2021": [],
+    "12/08/2021": [],
+    "13/08/2021": [],
+    "14/08/2021": [],
+    "15/08/2021": [
         {
-            "headline": " Using satellites in the fight against COVID-19",
-            "description": "Using satellites in the fight against COVID-19",
-            "author": "Paul Budde",
-            "date": 1629842400.0,
-            "intensityScore": -0.3818
-        },
-        {
-            "headline": " Freedom protesters and Craig Kelly central to Morrison\u2019s re-election plan",
-            "description": "Freedom protesters and Craig Kelly central to Morrison\u2019s re-election plan",
-            "author": "Martin Hirst",
-            "date": 1629784800.0,
-            "intensityScore": 0.5106
-        },
-        {
-            "headline": " The debt Australia owes the people of Afghanistan",
-            "description": "The debt Australia owes the people of Afghanistan",
-            "author": "Rashad Seedeen",
-            "date": 1629770400.0,
-            "intensityScore": -0.3612
-        },
-        {
-            "headline": " Frydenberg's revolving door",
-            "description": "Frydenberg's revolving door",
-            "author": "Anthony Klan",
-            "date": 1629756000.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Killing competition and a Federal ICAC, courtesy of the Coalition",
-            "description": "Killing competition and a Federal ICAC, courtesy of the Coalition",
-            "author": "Ross Jones",
-            "date": 1629702000.0,
-            "intensityScore": -0.4404
-        },
-        {
-            "headline": " Scott Morrison shielded by Murdoch protection racket",
-            "description": "Scott Morrison shielded by Murdoch protection racket",
-            "author": "Victoria Fielding",
-            "date": 1629698400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " NSW inquiry fails to expose Coalition's disastrous COVID decision-making",
-            "description": "NSW inquiry fails to expose Coalition's disastrous COVID decision-making",
-            "author": "Steve Bishop",
-            "date": 1629684000.0,
-            "intensityScore": -0.8074
-        },
-        {
-            "headline": " Morrison delivers for foreign corporations: Lowest wage rise on record",
-            "description": "Morrison delivers for foreign corporations: Lowest wage rise on record",
-            "author": "Alan Austin",
-            "date": 1629669600.0,
-            "intensityScore": -0.3818
-        },
-        {
-            "headline": " Students stiffed as universities cut courses to save money",
-            "description": "Students stiffed as universities cut courses to save money",
-            "author": "Eleanor Beidatsch",
-            "date": 1629615600.0,
-            "intensityScore": 0.2732
-        },
-        {
-            "headline": " Conspiracy theories continue to spread during COVID-19",
-            "description": "Conspiracy theories continue to spread during COVID-19",
-            "author": "Bilal Cleland",
-            "date": 1629601200.0,
-            "intensityScore": -0.5267
-        },
-        {
-            "headline": " Media makes light of Taliban terror",
-            "description": "Media makes light of Taliban terror",
-            "author": "Hadi Zaher",
-            "date": 1629586800.0,
-            "intensityScore": -0.5267
-        },
-        {
-            "headline": " Government has drained ABC of objectivity",
-            "description": "Government has drained ABC of objectivity",
-            "author": "Joel Jenkins",
-            "date": 1629511200.0,
-            "intensityScore": -0.3612
-        },
-        {
-            "headline": " The alt-Right: An era of misinformation incorporated",
-            "description": "The alt-Right: An era of misinformation incorporated",
-            "author": "David Paull",
-            "date": 1629496800.0,
-            "intensityScore": -0.3182
-        },
-        {
-            "headline": " WHAT'S ON: Respect \u2014 find out what it means",
-            "description": "WHAT'S ON: Respect \u2014 find out what it means",
-            "author": "Dan Jensen",
-            "date": 1629444600.0,
-            "intensityScore": 0.4767
-        },
-        {
-            "headline": " Scott Morrison is no supporter of great causes or freedom",
-            "description": "Scott Morrison is no supporter of great causes or freedom",
-            "author": "Peter Henning",
-            "date": 1629424800.0,
-            "intensityScore": 0.8169
-        },
-        {
-            "headline": " CARTOONS: Mark David's COVID response",
-            "description": "CARTOONS: Mark David's COVID response",
-            "author": "Mark David",
-            "date": 1629417600.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Border Force Commissioner's decisions are above the law",
-            "description": "Border Force Commissioner's decisions are above the law",
+            "headline": " Home Affairs: Making money while migrants miss out",
+            "description": "Home Affairs: Making money while migrants miss out",
             "author": "Lina Li",
-            "date": 1629410400.0,
-            "intensityScore": 0.0
-        },
+            "intensityScore": -0.1531
+        }
+    ],
+    "16/08/2021": [
         {
-            "headline": " Labor to lose progressive identity with small-target policies",
-            "description": "Labor to lose progressive identity with small-target policies",
-            "author": "John Quiggin",
-            "date": 1629352800.0,
-            "intensityScore": -0.4019
-        },
-        {
-            "headline": " Afghan women fear for their rights and safety as Taliban reclaims power",
-            "description": "Afghan women fear for their rights and safety as Taliban reclaims power",
-            "author": "Johanna Higgs",
-            "date": 1629324000.0,
-            "intensityScore": -0.1027
-        },
-        {
-            "headline": " Teenager steps up as AGL board nominee",
-            "description": "Teenager steps up as AGL board nominee",
-            "author": "David Ritter",
-            "date": 1629349200.0,
-            "intensityScore": 0.0
-        },
+            "headline": " U.S. Government keeps fighting  to extradite Julian Assange",
+            "description": "U.S. Government keeps fighting  to extradite Julian Assange",
+            "author": "Binoy Kampmark",
+            "intensityScore": -0.3612
+        }
+    ],
+    "17/08/2021": [],
+    "18/08/2021": [
         {
             "headline": " Peta Credlin's political opinions are worthless",
             "description": "Peta Credlin's political opinions are worthless",
             "author": "Alan Austin",
-            "date": 1629266400.0,
             "intensityScore": -0.4404
         },
         {
             "headline": " Australia must offer permanent protection to Afghan refugees now",
             "description": "Australia must offer permanent protection to Afghan refugees now",
             "author": "Claire Higgins",
-            "date": 1629252000.0,
             "intensityScore": 0.0
-        },
-        {
-            "headline": " U.S. Government keeps fighting  to extradite Julian Assange",
-            "description": "U.S. Government keeps fighting  to extradite Julian Assange",
-            "author": "Binoy Kampmark",
-            "date": 1629079200.0,
-            "intensityScore": -0.3612
         },
         {
             "headline": " NBN Co hits revenue target after constant downward revision",
             "description": "NBN Co hits revenue target after constant downward revision",
             "author": "Paul Budde",
-            "date": 1629237600.0,
+            "intensityScore": 0.0
+        }
+    ],
+    "19/08/2021": [
+        {
+            "headline": " From vaccines to Afghanistan, Scotty does nothing",
+            "description": "From vaccines to Afghanistan, Scotty does nothing",
+            "author": "Michelle Pini",
             "intensityScore": 0.0
         },
         {
-            "headline": " Home Affairs: Making money while migrants miss out",
-            "description": "Home Affairs: Making money while migrants miss out",
+            "headline": " Labor to lose progressive identity with small-target policies",
+            "description": "Labor to lose progressive identity with small-target policies",
+            "author": "John Quiggin",
+            "intensityScore": -0.4019
+        },
+        {
+            "headline": " Afghan women fear for their rights and safety as Taliban reclaims power",
+            "description": "Afghan women fear for their rights and safety as Taliban reclaims power",
+            "author": "Johanna Higgs",
+            "intensityScore": -0.1027
+        },
+        {
+            "headline": " Teenager steps up as AGL board nominee",
+            "description": "Teenager steps up as AGL board nominee",
+            "author": "David Ritter",
+            "intensityScore": 0.0
+        }
+    ],
+    "20/08/2021": [
+        {
+            "headline": " WHAT'S ON: Respect — find out what it means",
+            "description": "WHAT'S ON: Respect — find out what it means",
+            "author": "Dan Jensen",
+            "intensityScore": 0.4767
+        },
+        {
+            "headline": " Scott Morrison is no supporter of great causes or freedom",
+            "description": "Scott Morrison is no supporter of great causes or freedom",
+            "author": "Peter Henning",
+            "intensityScore": 0.8169
+        },
+        {
+            "headline": " CARTOONS: Mark David's COVID response",
+            "description": "CARTOONS: Mark David's COVID response",
+            "author": "Mark David",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Border Force Commissioner's decisions are above the law",
+            "description": "Border Force Commissioner's decisions are above the law",
             "author": "Lina Li",
-            "date": 1629010800.0,
+            "intensityScore": 0.0
+        }
+    ],
+    "21/08/2021": [
+        {
+            "headline": " Government has drained ABC of objectivity",
+            "description": "Government has drained ABC of objectivity",
+            "author": "Joel Jenkins",
+            "intensityScore": -0.3612
+        },
+        {
+            "headline": " The alt-Right: An era of misinformation incorporated",
+            "description": "The alt-Right: An era of misinformation incorporated",
+            "author": "David Paull",
+            "intensityScore": -0.3182
+        }
+    ],
+    "22/08/2021": [
+        {
+            "headline": " Students stiffed as universities cut courses to save money",
+            "description": "Students stiffed as universities cut courses to save money",
+            "author": "Eleanor Beidatsch",
+            "intensityScore": 0.2732
+        },
+        {
+            "headline": " Conspiracy theories continue to spread during COVID-19",
+            "description": "Conspiracy theories continue to spread during COVID-19",
+            "author": "Bilal Cleland",
+            "intensityScore": -0.5267
+        },
+        {
+            "headline": " Media makes light of Taliban terror",
+            "description": "Media makes light of Taliban terror",
+            "author": "Hadi Zaher",
+            "intensityScore": -0.5267
+        }
+    ],
+    "23/08/2021": [
+        {
+            "headline": " Killing competition and a Federal ICAC, courtesy of the Coalition",
+            "description": "Killing competition and a Federal ICAC, courtesy of the Coalition",
+            "author": "Ross Jones",
+            "intensityScore": -0.4404
+        },
+        {
+            "headline": " Scott Morrison shielded by Murdoch protection racket",
+            "description": "Scott Morrison shielded by Murdoch protection racket",
+            "author": "Victoria Fielding",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " NSW inquiry fails to expose Coalition's disastrous COVID decision-making",
+            "description": "NSW inquiry fails to expose Coalition's disastrous COVID decision-making",
+            "author": "Steve Bishop",
+            "intensityScore": -0.8074
+        },
+        {
+            "headline": " Morrison delivers for foreign corporations: Lowest wage rise on record",
+            "description": "Morrison delivers for foreign corporations: Lowest wage rise on record",
+            "author": "Alan Austin",
+            "intensityScore": -0.3818
+        }
+    ],
+    "24/08/2021": [
+        {
+            "headline": " Freedom protesters and Craig Kelly central to Morrison’s re-election plan",
+            "description": "Freedom protesters and Craig Kelly central to Morrison’s re-election plan",
+            "author": "Martin Hirst",
+            "intensityScore": 0.5106
+        },
+        {
+            "headline": " The debt Australia owes the people of Afghanistan",
+            "description": "The debt Australia owes the people of Afghanistan",
+            "author": "Rashad Seedeen",
+            "intensityScore": -0.3612
+        },
+        {
+            "headline": " Frydenberg's revolving door",
+            "description": "Frydenberg's revolving door",
+            "author": "Anthony Klan",
+            "intensityScore": 0.0
+        }
+    ],
+    "25/08/2021": [
+        {
+            "headline": " Government downplays COVID-19 case numbers to open up sooner",
+            "description": "Government downplays COVID-19 case numbers to open up sooner",
+            "author": "Jennifer Wilson",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Multiple match thrillers set the tone for footy finals",
+            "description": "Multiple match thrillers set the tone for footy finals",
+            "author": "Ronny Lerner",
+            "intensityScore": 0.0258
+        },
+        {
+            "headline": " Bloody Idiot of the Week — Episode 23: Morrison and Dutton fight to the death",
+            "description": "Bloody Idiot of the Week — Episode 23: Morrison and Dutton fight to the death",
+            "author": "Dan Jensen",
+            "intensityScore": -0.9136
+        },
+        {
+            "headline": " The economic triumph of the Afghanistan war",
+            "description": "The economic triumph of the Afghanistan war",
+            "author": "George Grundy",
+            "intensityScore": -0.2023
+        },
+        {
+            "headline": " Using satellites in the fight against COVID-19",
+            "description": "Using satellites in the fight against COVID-19",
+            "author": "Paul Budde",
+            "intensityScore": -0.3818
+        }
+    ],
+    "26/08/2021": [
+        {
+            "headline": " Corrupting democracy — we need to say &quot;FIN&quot;",
+            "description": "Corrupting democracy — we need to say &amp;quot;FIN&amp;quot;",
+            "author": "Ross Jones",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " JOHN PILGER: How the U.S. ruined Afghanistan playing the 'great game'",
+            "description": "JOHN PILGER: How the U.S. ruined Afghanistan playing the 'great game'",
+            "author": "John Pilger",
+            "intensityScore": 0.4215
+        },
+        {
+            "headline": " Biden's Summit for Democracy an opportunity to attack China",
+            "description": "Biden's Summit for Democracy an opportunity to attack China",
+            "author": "William Briggs",
+            "intensityScore": -0.0772
+        },
+        {
+            "headline": " The debate around Australia's nation-building Inland Rail project",
+            "description": "The debate around Australia's nation-building Inland Rail project",
+            "author": "Craig Minns",
+            "intensityScore": 0.0
+        }
+    ],
+    "27/08/2021": [
+        {
+            "headline": " WHAT'S ON: Candyman — more than just a horror film",
+            "description": "WHAT'S ON: Candyman — more than just a horror film",
+            "author": "Dan Jensen",
+            "intensityScore": -0.5719
+        },
+        {
+            "headline": " Rapid testing and viral mapping can help beat COVID-19",
+            "description": "Rapid testing and viral mapping can help beat COVID-19",
+            "author": "Kim Sawyer",
+            "intensityScore": 0.4019
+        },
+        {
+            "headline": " CARTOONS: The four phases of Mark David",
+            "description": "CARTOONS: The four phases of Mark David",
+            "author": "Mark David",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Canada’s aggressive plans for immigration post-COVID-19",
+            "description": "Canada’s aggressive plans for immigration post-COVID-19",
+            "author": "Abul Rizvi",
             "intensityScore": -0.1531
+        }
+    ],
+    "28/08/2021": [
+        {
+            "headline": " Government and media misinformation making the pandemic tougher",
+            "description": "Government and media misinformation making the pandemic tougher",
+            "author": "Joel Jenkins",
+            "intensityScore": -0.1531
+        },
+        {
+            "headline": " Australian business needs a more sophisticated COVID-19 relief program",
+            "description": "Australian business needs a more sophisticated COVID-19 relief program",
+            "author": "Tom McCarthy",
+            "intensityScore": 0.8051
+        },
+        {
+            "headline": " The unreality of anti-lockdown activism",
+            "description": "The unreality of anti-lockdown activism",
+            "author": "Tom Tanuki",
+            "intensityScore": 0.0
+        }
+    ],
+    "29/08/2021": [
+        {
+            "headline": " Ningaloo natural beauty under threat if Woodside has its way",
+            "description": "Ningaloo natural beauty under threat if Woodside has its way",
+            "author": "Corinna Elaine",
+            "intensityScore": 0.4404
+        },
+        {
+            "headline": " Charlie Watts: Farewell to the gentleman drummer",
+            "description": "Charlie Watts: Farewell to the gentleman drummer",
+            "author": "Jenny LeComte",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Palmer's propaganda fodder for far-Right rebellion",
+            "description": "Palmer's propaganda fodder for far-Right rebellion",
+            "author": "David Paull",
+            "intensityScore": -0.3612
+        }
+    ],
+    "30/08/2021": [
+        {
+            "headline": " Wren's Week: Government negligence is dooming our nation",
+            "description": "Wren's Week: Government negligence is dooming our nation",
+            "author": "John Wren",
+            "intensityScore": -0.5859
+        },
+        {
+            "headline": " Picnics for the rich and curfews for the poor",
+            "description": "Picnics for the rich and curfews for the poor",
+            "author": "Davey Heller",
+            "intensityScore": 0.128
+        },
+        {
+            "headline": " Morrison Government sets records in economic mismanagement",
+            "description": "Morrison Government sets records in economic mismanagement",
+            "author": "Alan Austin",
+            "intensityScore": 0.0
+        }
+    ],
+    "31/08/2021": [
+        {
+            "headline": " Uniform resource rent tax for a better future",
+            "description": "Uniform resource rent tax for a better future",
+            "author": "Emma Dawson",
+            "intensityScore": 0.4404
+        },
+        {
+            "headline": " Climate crisis putting a billion children at ‘extremely high risk’",
+            "description": "Climate crisis putting a billion children at ‘extremely high risk’",
+            "author": "Reynard Loki",
+            "intensityScore": -0.6249
+        },
+        {
+            "headline": " Clive Palmer’s campaign will have a body count",
+            "description": "Clive Palmer’s campaign will have a body count",
+            "author": "Andrew P Street",
+            "intensityScore": 0.0
+        }
+    ],
+    "01/09/2021": [
+        {
+            "headline": " Agriculture Visas: Modern slavery continues",
+            "description": "Agriculture Visas: Modern slavery continues",
+            "author": "Abul Rizvi",
+            "intensityScore": -0.7003
+        },
+        {
+            "headline": " New koala recovery plan is just more political spin",
+            "description": "New koala recovery plan is just more political spin",
+            "author": "Sue Arnold",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Government still holding Australia back in global broadband ranking",
+            "description": "Government still holding Australia back in global broadband ranking",
+            "author": "Paul Budde",
+            "intensityScore": 0.0
+        }
+    ],
+    "02/09/2021": [
+        {
+            "headline": " Murdoch and the big Australian lie",
+            "description": "Murdoch and the big Australian lie",
+            "author": "David Donovan and Michelle Pini",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Coal in China: The good, the bad and the ugly",
+            "description": "Coal in China: The good, the bad and the ugly",
+            "author": "John Quiggin",
+            "intensityScore": -0.5994
+        },
+        {
+            "headline": " Home Affairs delays visa processing while applications drop",
+            "description": "Home Affairs delays visa processing while applications drop",
+            "author": "Lina Li",
+            "intensityScore": -0.2732
+        }
+    ],
+    "03/09/2021": [
+        {
+            "headline": " WHAT'S ON: Nine Perfect Strangers — the truth shall set you free",
+            "description": "WHAT'S ON: Nine Perfect Strangers — the truth shall set you free",
+            "author": "Dan Jensen",
+            "intensityScore": 0.8519
+        },
+        {
+            "headline": " Afghanistan is a warning of global denialism",
+            "description": "Afghanistan is a warning of global denialism",
+            "author": "Robert Niven",
+            "intensityScore": -0.34
+        },
+        {
+            "headline": " CARTOONS: Mark David is making promises",
+            "description": "CARTOONS: Mark David is making promises",
+            "author": "Mark David",
+            "intensityScore": 0.3818
+        },
+        {
+            "headline": " Class action may reform laws for the 'forgotten children'",
+            "description": "Class action may reform laws for the 'forgotten children'",
+            "author": "Gerry Georgatos",
+            "intensityScore": -0.2263
+        }
+    ],
+    "04/09/2021": [
+        {
+            "headline": " Richard Pusey: The ‘most hated man in Australia’ walks free",
+            "description": "Richard Pusey: The ‘most hated man in Australia’ walks free",
+            "author": "Elroy Rosenberg",
+            "intensityScore": -0.2263
+        },
+        {
+            "headline": " Help is needed for culturally diverse communities during pandemic",
+            "description": "Help is needed for culturally diverse communities during pandemic",
+            "author": "Sabrin Farooqui",
+            "intensityScore": 0.4019
+        },
+        {
+            "headline": " Texas abortion laws: A modern Handmaid's Tale",
+            "description": "Texas abortion laws: A modern Handmaid's Tale",
+            "author": "George Grundy",
+            "intensityScore": 0.0
+        }
+    ],
+    "05/09/2021": [
+        {
+            "headline": " IA Book Club: The Shortest History of War",
+            "description": "IA Book Club: The Shortest History of War",
+            "author": "Jim Kable",
+            "intensityScore": -0.5994
+        },
+        {
+            "headline": " Fire, floods and felonies: Relocation the only option for Rohingya",
+            "description": "Fire, floods and felonies: Relocation the only option for Rohingya",
+            "author": "Habibur Rahman",
+            "intensityScore": -0.7096
+        },
+        {
+            "headline": " First Nations Voice to Parliament: It's time to rethink democracy",
+            "description": "First Nations Voice to Parliament: It's time to rethink democracy",
+            "author": "Matthew Butera",
+            "intensityScore": 0.0
+        }
+    ],
+    "06/09/2021": [
+        {
+            "headline": " Clive Palmer's UAP membership may be an offer you can't refuse",
+            "description": "Clive Palmer's UAP membership may be an offer you can't refuse",
+            "author": "Ross Jones",
+            "intensityScore": 0.2235
+        },
+        {
+            "headline": " Media bias for Berejiklian and against Andrews is clear",
+            "description": "Media bias for Berejiklian and against Andrews is clear",
+            "author": "Victoria Fielding",
+            "intensityScore": 0.296
+        },
+        {
+            "headline": " Gladys boasts about how her Government is teaching us to 'live with COVID'",
+            "description": "Gladys boasts about how her Government is teaching us to 'live with COVID'",
+            "author": "Rocky Dabscheck",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Frydenberg dubiously claims Australia’s lagging economy ‘leads the pack’",
+            "description": "Frydenberg dubiously claims Australia’s lagging economy ‘leads the pack’",
+            "author": "Alan Austin",
+            "intensityScore": -0.2732
+        }
+    ],
+    "07/09/2021": [
+        {
+            "headline": " Flashback 2018: The bad Guys",
+            "description": "Flashback 2018: The bad Guys",
+            "author": "David Donovan",
+            "intensityScore": -0.5423
+        },
+        {
+            "headline": " The Liberal Government doesn't care if you die",
+            "description": "The Liberal Government doesn't care if you die",
+            "author": "Jennifer Wilson",
+            "intensityScore": -0.7599
+        },
+        {
+            "headline": " COVID-19 saving AAT from burgeoning backlogs",
+            "description": "COVID-19 saving AAT from burgeoning backlogs",
+            "author": "Abul Rizvi",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Afghanistan, ‘anarchy’ and confecting a China threat",
+            "description": "Afghanistan, ‘anarchy’ and confecting a China threat",
+            "author": "William Briggs",
+            "intensityScore": -0.5267
+        }
+    ],
+    "08/09/2021": [
+        {
+            "headline": " Flashback 2017: Matthew Guy and the 'mafia': Top five Liberal Party wise-Guys",
+            "description": "Flashback 2017: Matthew Guy and the 'mafia': Top five Liberal Party wise-Guys",
+            "author": "David Donovan",
+            "intensityScore": 0.5423
+        },
+        {
+            "headline": " Governments to blame for vaccine confusion",
+            "description": "Governments to blame for vaccine confusion",
+            "author": "Sue Arnold",
+            "intensityScore": -0.5574
+        },
+        {
+            "headline": " Scott Morrison has destroyed Australia's humanity",
+            "description": "Scott Morrison has destroyed Australia's humanity",
+            "author": "Rosalind Fuller",
+            "intensityScore": -0.4939
+        },
+        {
+            "headline": " Government wants NBN Co to focus on the money",
+            "description": "Government wants NBN Co to focus on the money",
+            "author": "Paul Budde",
+            "intensityScore": 0.0
+        }
+    ],
+    "09/09/2021": [
+        {
+            "headline": " Morrison, Finlay and a tame – but not Tame enough – Women’s Summit",
+            "description": "Morrison, Finlay and a tame – but not Tame enough – Women’s Summit",
+            "author": "Michelle Pini",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Australia's first anti-corruption party: FIN is now official",
+            "description": "Australia's first anti-corruption party: FIN is now official",
+            "author": "Ross Jones",
+            "intensityScore": 0.4019
+        },
+        {
+            "headline": " A betrayal of farmers: The Nationals are lackeys for coal",
+            "description": "A betrayal of farmers: The Nationals are lackeys for coal",
+            "author": "David Paull",
+            "intensityScore": -0.5859
+        },
+        {
+            "headline": " The Nationals and Murdoch media support nuclear power ahead of COP26",
+            "description": "The Nationals and Murdoch media support nuclear power ahead of COP26",
+            "author": "Noel Wauchope",
+            "intensityScore": 0.4019
+        }
+    ],
+    "10/09/2021": [
+        {
+            "headline": " Politicians still refuse to take action on climate disaster",
+            "description": "Politicians still refuse to take action on climate disaster",
+            "author": "Sonali Kolhatkar",
+            "intensityScore": -0.743
+        },
+        {
+            "headline": " WHAT'S ON: Turning Point: 9/11 and the War on Terror — inside America's failure",
+            "description": "WHAT'S ON: Turning Point: 9/11 and the War on Terror — inside America's failure",
+            "author": "Dan Jensen",
+            "intensityScore": -0.891
+        },
+        {
+            "headline": " CARTOONS: Mark David is running his own race",
+            "description": "CARTOONS: Mark David is running his own race",
+            "author": "Mark David",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Coalition responsible for the demise of Australia's Family Court",
+            "description": "Coalition responsible for the demise of Australia's Family Court",
+            "author": "Graham Perrett",
+            "intensityScore": 0.3182
+        }
+    ],
+    "11/09/2021": [
+        {
+            "headline": " A reflection of decades of failed U.S. national security policy",
+            "description": "A reflection of decades of failed U.S. national security policy",
+            "author": "Katrina vanden Heuvel",
+            "intensityScore": -0.2263
+        },
+        {
+            "headline": " Scott Morrison's Father's Day hypocrisy",
+            "description": "Scott Morrison's Father's Day hypocrisy",
+            "author": "Hannah Thomas",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " How the anti-lockdown fundraising machine keeps running",
+            "description": "How the anti-lockdown fundraising machine keeps running",
+            "author": "Tom Tanuki",
+            "intensityScore": 0.0
+        }
+    ],
+    "12/09/2021": [
+        {
+            "headline": " Melbourne: It's a shame about the name",
+            "description": "Melbourne: It's a shame about the name",
+            "author": "GJ Burchall",
+            "intensityScore": -0.4767
+        },
+        {
+            "headline": " IA BOOK CLUB: Chris Bowen's 'Labor People'",
+            "description": "IA BOOK CLUB: Chris Bowen's 'Labor People'",
+            "author": "Craig Minns",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Publishers lose High Court appeal in Dylan Voller defamation case",
+            "description": "Publishers lose High Court appeal in Dylan Voller defamation case",
+            "author": "Martin Hirst",
+            "intensityScore": -0.4019
+        }
+    ],
+    "13/09/2021": [
+        {
+            "headline": " AUDIO EXCLUSIVE: The Sun Rises interviews the United Australia Party",
+            "description": "AUDIO EXCLUSIVE: The Sun Rises interviews the United Australia Party",
+            "author": "David Donovan",
+            "intensityScore": 0.7739
+        },
+        {
+            "headline": " Like the U.S., Australians angry about COVID mismanagement",
+            "description": "Like the U.S., Australians angry about COVID mismanagement",
+            "author": "Sue Arnold",
+            "intensityScore": -0.2023
+        },
+        {
+            "headline": " Rules around travel exemptions unclear, stranding Australians",
+            "description": "Rules around travel exemptions unclear, stranding Australians",
+            "author": "Lina Li",
+            "intensityScore": -0.25
+        },
+        {
+            "headline": " Morrison Government sets more 'worst ever' economic records",
+            "description": "Morrison Government sets more 'worst ever' economic records",
+            "author": "Alan Austin",
+            "intensityScore": -0.659
+        }
+    ],
+    "14/09/2021": [
+        {
+            "headline": " Why Australia needs to become a secular republic",
+            "description": "Why Australia needs to become a secular republic",
+            "author": "Max Wallace",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " 'Dobber King' Tony Abbott doesn't care for being dobbed upon",
+            "description": "'Dobber King' Tony Abbott doesn't care for being dobbed upon",
+            "author": "Andrew P Street",
+            "intensityScore": -0.3875
         },
         {
             "headline": " The unanswered questions surrounding 9/11",
             "description": "The unanswered questions surrounding 9/11",
             "author": "George Grundy",
-            "date": 1631599200.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "15/09/2021": [
         {
             "headline": " Flashback 2013: Leigh Salesperson interviews Dr Craig Emerson on ABC $7.30",
             "description": "Flashback 2013: Leigh Salesperson interviews Dr Craig Emerson on ABC $7.30",
             "author": "David Donovan",
-            "date": 1631689200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " 'Honest' Christian Porter's mystery donation is totally not suspicious",
             "description": "'Honest' Christian Porter's mystery donation is totally not suspicious",
             "author": "Andrew P Street",
-            "date": 1631685600.0,
             "intensityScore": 0.6896
         },
         {
             "headline": " Emma Raducanu's rise to fame highlights dangers of media scrutiny",
             "description": "Emma Raducanu's rise to fame highlights dangers of media scrutiny",
             "author": "Hsin-Yi Lo",
-            "date": 1631671200.0,
             "intensityScore": -0.0772
         },
         {
             "headline": " Autonomous vehicle services: The future has a long and winding road",
             "description": "Autonomous vehicle services: The future has a long and winding road",
             "author": "Paul Budde",
-            "date": 1631656800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "16/09/2021": [
         {
             "headline": " Sales, Gillard and the 'Left-leaning Twitter' bully",
             "description": "Sales, Gillard and the 'Left-leaning Twitter' bully",
             "author": "Michelle Pini",
-            "date": 1631741400.0,
             "intensityScore": -0.4939
         },
         {
             "headline": " Corporate 'greenwashing' a major obstacle in climate change fight",
             "description": "Corporate 'greenwashing' a major obstacle in climate change fight",
             "author": "David Ritter",
-            "date": 1631772000.0,
             "intensityScore": -0.6997
         },
         {
             "headline": " International doctors endure hardship in COVID Australia",
             "description": "International doctors endure hardship in COVID Australia",
             "author": "Habibur Rahman",
-            "date": 1631757600.0,
             "intensityScore": -0.3182
-        },
+        }
+    ],
+    "17/09/2021": [
         {
             "headline": " IA Book Club: Maria Taylor's 'Injustice'",
             "description": "IA Book Club: Maria Taylor's 'Injustice'",
             "author": "Revelly Robinson",
-            "date": 1631858400.0,
             "intensityScore": -0.5719
         },
         {
-            "headline": " WHAT'S ON: Die in a Gunfight \u2014 zero bang for your buck",
-            "description": "WHAT'S ON: Die in a Gunfight \u2014 zero bang for your buck",
+            "headline": " WHAT'S ON: Die in a Gunfight — zero bang for your buck",
+            "description": "WHAT'S ON: Die in a Gunfight — zero bang for your buck",
             "author": "Dan Jensen",
-            "date": 1631862000.0,
             "intensityScore": -0.5994
         },
         {
             "headline": " Leigh Sales' bullying claims don't stack up",
             "description": "Leigh Sales' bullying claims don't stack up",
             "author": "Martin Hirst",
-            "date": 1631844000.0,
             "intensityScore": -0.5994
         },
         {
             "headline": " CARTOONS: Mark David leaves lockdown to the experts",
             "description": "CARTOONS: Mark David leaves lockdown to the experts",
             "author": "Mark David",
-            "date": 1631836800.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Nuclear white elephants: Australia\u2019s new submarine deal",
-            "description": "Nuclear white elephants: Australia\u2019s new submarine deal",
+            "headline": " Nuclear white elephants: Australia’s new submarine deal",
+            "description": "Nuclear white elephants: Australia’s new submarine deal",
             "author": "Binoy Kampmark",
-            "date": 1631829600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "18/09/2021": [
         {
             "headline": " Climate education is essential for a better future",
             "description": "Climate education is essential for a better future",
             "author": "Howard Morrison",
-            "date": 1631944800.0,
             "intensityScore": 0.4404
         },
         {
             "headline": " The Australian immigration prison system",
             "description": "The Australian immigration prison system",
             "author": "Lina Li",
-            "date": 1631930400.0,
             "intensityScore": -0.5106
         },
         {
             "headline": " Wren's Week: Gladys does the dash while Porter remains untouchable",
             "description": "Wren's Week: Gladys does the dash while Porter remains untouchable",
             "author": "John Wren",
-            "date": 1631916000.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "19/09/2021": [
         {
-            "headline": " IA Book Club: Long Half-life \u2013 The Nuclear Industry in Australia",
-            "description": "IA Book Club: Long Half-life \u2013 The Nuclear Industry in Australia",
+            "headline": " IA Book Club: Long Half-life – The Nuclear Industry in Australia",
+            "description": "IA Book Club: Long Half-life – The Nuclear Industry in Australia",
             "author": "Evan Jones",
-            "date": 1632020400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Tudge sore over suggestion we question Anzac Day",
             "description": "Tudge sore over suggestion we question Anzac Day",
             "author": "Dechlan Brennan",
-            "date": 1632006000.0,
             "intensityScore": -0.3612
-        },
+        }
+    ],
+    "20/09/2021": [
         {
             "headline": " Leigh Sales, Twitter and the power of the mainstream media",
             "description": "Leigh Sales, Twitter and the power of the mainstream media",
             "author": "Victoria Fielding",
-            "date": 1632121200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Submarine fiasco the latest in a long list of Coalition military failures",
             "description": "Submarine fiasco the latest in a long list of Coalition military failures",
             "author": "Alan Austin",
-            "date": 1632088800.0,
             "intensityScore": -0.743
         },
         {
             "headline": " Temporary entrants in Australia: Who is left and what is to come",
             "description": "Temporary entrants in Australia: Who is left and what is to come",
             "author": "Abul Rizvi",
-            "date": 1632103200.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Nuclear sub plan sees Australia\u2019s reputation take a dive",
-            "description": "Nuclear sub plan sees Australia\u2019s reputation take a dive",
+            "headline": " Nuclear sub plan sees Australia’s reputation take a dive",
+            "description": "Nuclear sub plan sees Australia’s reputation take a dive",
             "author": "Dave Sweeney",
-            "date": 1632117600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "21/09/2021": [
         {
             "headline": " Flashback 2019: Like a fish out of water: Australia's submarine project is a flop",
             "description": "Flashback 2019: Like a fish out of water: Australia's submarine project is a flop",
             "author": "Binoy Kampmark",
-            "date": 1632207600.0,
             "intensityScore": 0.0258
         },
         {
             "headline": " Morrison Government setting Australia backward in women's rights",
             "description": "Morrison Government setting Australia backward in women's rights",
             "author": "Graham Perrett",
-            "date": 1632204000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " China and how America lost peer competition",
             "description": "China and how America lost peer competition",
             "author": "William Briggs",
-            "date": 1632189600.0,
             "intensityScore": -0.3182
         },
         {
             "headline": " Scott Morrison's devolution of democracy",
             "description": "Scott Morrison's devolution of democracy",
             "author": "Jennifer Wilson",
-            "date": 1632175200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Bad politics and the death of tax reform",
-            "description": "Bad politics and the death of tax reform",
-            "author": "Ross Stitt",
-            "date": 1632290400.0,
-            "intensityScore": -0.8126
-        },
-        {
-            "headline": " Morrison Government re-election would be an environmental catastrophe",
-            "description": "Morrison Government re-election would be an environmental catastrophe",
-            "author": "Sue Arnold",
-            "date": 1632276000.0,
-            "intensityScore": -0.6597
-        },
-        {
-            "headline": " Unveiling T25: Telstra\u2019s vision of its future",
-            "description": "Unveiling T25: Telstra\u2019s vision of its future",
-            "author": "Paul Budde",
-            "date": 1632261600.0,
-            "intensityScore": 0.25
-        },
-        {
-            "headline": " EDITORIAL: Christian Porter\u2019s dark blind trust: Nothing to see here!",
-            "description": "EDITORIAL: Christian Porter\u2019s dark blind trust: Nothing to see here!",
-            "author": "Michelle Pini",
-            "date": 1632299400.0,
-            "intensityScore": 0.2244
-        },
-        {
-            "headline": " Christian Porter\u2019s dark blind trust: Nothing to see here!",
-            "description": "Christian Porter\u2019s dark blind trust: Nothing to see here!",
-            "author": "Michelle Pini",
-            "date": 1632346200.0,
-            "intensityScore": 0.2244
-        },
-        {
-            "headline": " Melbourne anti-lockdown protests are a disorganised mess",
-            "description": "Melbourne anti-lockdown protests are a disorganised mess",
-            "author": "Tom Tanuki",
-            "date": 1632376800.0,
-            "intensityScore": -0.5267
-        },
-        {
-            "headline": " Bulldogs in the way of Demons ending curse",
-            "description": "Bulldogs in the way of Demons ending curse",
-            "author": "Ronny Lerner",
-            "date": 1632369600.0,
-            "intensityScore": -0.5423
-        },
-        {
-            "headline": " 'Sub-standard': Submarine deal botched by Morrison and his cronies",
-            "description": "'Sub-standard': Submarine deal botched by Morrison and his cronies",
-            "author": "George Grundy",
-            "date": 1632362400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Morrison Government sends Australia backward in women's rights",
             "description": "Morrison Government sends Australia backward in women's rights",
             "author": "Graham Perrett",
-            "date": 1632204000.0,
             "intensityScore": 0.0
+        }
+    ],
+    "22/09/2021": [
+        {
+            "headline": " Bad politics and the death of tax reform",
+            "description": "Bad politics and the death of tax reform",
+            "author": "Ross Stitt",
+            "intensityScore": -0.8126
         },
         {
-            "headline": " WHAT'S ON: Joe Bell \u2014 the long road to redemption",
-            "description": "WHAT'S ON: Joe Bell \u2014 the long road to redemption",
+            "headline": " Morrison Government re-election would be an environmental catastrophe",
+            "description": "Morrison Government re-election would be an environmental catastrophe",
+            "author": "Sue Arnold",
+            "intensityScore": -0.6597
+        },
+        {
+            "headline": " Unveiling T25: Telstra’s vision of its future",
+            "description": "Unveiling T25: Telstra’s vision of its future",
+            "author": "Paul Budde",
+            "intensityScore": 0.25
+        },
+        {
+            "headline": " EDITORIAL: Christian Porter’s dark blind trust: Nothing to see here!",
+            "description": "EDITORIAL: Christian Porter’s dark blind trust: Nothing to see here!",
+            "author": "Michelle Pini",
+            "intensityScore": 0.2244
+        }
+    ],
+    "23/09/2021": [
+        {
+            "headline": " Christian Porter’s dark blind trust: Nothing to see here!",
+            "description": "Christian Porter’s dark blind trust: Nothing to see here!",
+            "author": "Michelle Pini",
+            "intensityScore": 0.2244
+        },
+        {
+            "headline": " Melbourne anti-lockdown protests are a disorganised mess",
+            "description": "Melbourne anti-lockdown protests are a disorganised mess",
+            "author": "Tom Tanuki",
+            "intensityScore": -0.5267
+        },
+        {
+            "headline": " Bulldogs in the way of Demons ending curse",
+            "description": "Bulldogs in the way of Demons ending curse",
+            "author": "Ronny Lerner",
+            "intensityScore": -0.5423
+        },
+        {
+            "headline": " 'Sub-standard': Submarine deal botched by Morrison and his cronies",
+            "description": "'Sub-standard': Submarine deal botched by Morrison and his cronies",
+            "author": "George Grundy",
+            "intensityScore": 0.0
+        }
+    ],
+    "24/09/2021": [
+        {
+            "headline": " WHAT'S ON: Joe Bell — the long road to redemption",
+            "description": "WHAT'S ON: Joe Bell — the long road to redemption",
             "author": "Dan Jensen",
-            "date": 1632463200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Bridging visa boom sparks audit request",
             "description": "Bridging visa boom sparks audit request",
             "author": "Lina Li",
-            "date": 1632448800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " CARTOONS: Mark David goes 'sub-terranean'",
             "description": "CARTOONS: Mark David goes 'sub-terranean'",
             "author": "Mark David",
-            "date": 1632441600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Frydenberg ignored advice on JobKeeper design flaw, Liberal member claims",
             "description": "Frydenberg ignored advice on JobKeeper design flaw, Liberal member claims",
             "author": "Hayden O'Connor",
-            "date": 1632434400.0,
             "intensityScore": -0.3182
-        },
+        }
+    ],
+    "25/09/2021": [
         {
             "headline": " Government needs to rethink its COVID-19 strategy",
             "description": "Government needs to rethink its COVID-19 strategy",
             "author": "Ted Christie",
-            "date": 1632535200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Melbourne earthquake: Shaken, not stirred",
             "description": "Melbourne earthquake: Shaken, not stirred",
             "author": "Binoy Kampmark",
-            "date": 1632520800.0,
             "intensityScore": -0.0772
-        },
+        }
+    ],
+    "26/09/2021": [
         {
             "headline": " Morrison's 'sub-par' performance tanks Australia's national identity",
             "description": "Morrison's 'sub-par' performance tanks Australia's national identity",
             "author": "Peter Henning",
-            "date": 1632639600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " The value of a degrowth economy: Our planet would be richer for it",
             "description": "The value of a degrowth economy: Our planet would be richer for it",
             "author": "Erin Remblance",
-            "date": 1632625200.0,
             "intensityScore": 0.7003
         },
         {
             "headline": " U.S.-China talk could torpedo climate conference",
             "description": "U.S.-China talk could torpedo climate conference",
             "author": "Graeme McLeay",
-            "date": 1632610800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "27/09/2021": [
         {
             "headline": " Scott Morrison: What the bloody hell are you doing",
             "description": "Scott Morrison: What the bloody hell are you doing",
             "author": "Paul Begley",
-            "date": 1632722400.0,
             "intensityScore": -0.8176
         },
         {
             "headline": " The disadvantaged face the brunt of COVID-related hardship",
             "description": "The disadvantaged face the brunt of COVID-related hardship",
             "author": "Duncan Storrar",
-            "date": 1632708000.0,
             "intensityScore": -0.6124
         },
         {
             "headline": " Morrison and Frydenberg set multiple 'all-time worst' records on jobs",
             "description": "Morrison and Frydenberg set multiple 'all-time worst' records on jobs",
             "author": "Alan Austin",
-            "date": 1632693600.0,
             "intensityScore": -0.6249
         },
         {
             "headline": " Scott Morrison, what the bloody hell are you doing?",
             "description": "Scott Morrison, what the bloody hell are you doing?",
             "author": "Paul Begley",
-            "date": 1632722400.0,
             "intensityScore": -0.8176
-        },
+        }
+    ],
+    "28/09/2021": [
         {
-            "headline": " National Party\u2019s emission plan: No coal executive left behind",
-            "description": "National Party\u2019s emission plan: No coal executive left behind",
+            "headline": " National Party’s emission plan: No coal executive left behind",
+            "description": "National Party’s emission plan: No coal executive left behind",
             "author": "Andrew P Street",
-            "date": 1632808800.0,
             "intensityScore": -0.296
         },
         {
             "headline": " Mainstream media no friend to The New Liberals",
             "description": "Mainstream media no friend to The New Liberals",
             "author": "Victor Kline",
-            "date": 1632794400.0,
             "intensityScore": -0.3875
         },
         {
             "headline": " Outcome of 2020-21 Migration Program: Alex Hawke panics on immigration",
             "description": "Outcome of 2020-21 Migration Program: Alex Hawke panics on immigration",
             "author": "Abul Rizvi",
-            "date": 1632780000.0,
             "intensityScore": -0.4404
-        },
+        }
+    ],
+    "29/09/2021": [
         {
             "headline": " China makes progress in fight against climate change",
             "description": "China makes progress in fight against climate change",
             "author": "John Quiggin",
-            "date": 1632895200.0,
             "intensityScore": 0.0516
         },
         {
             "headline": " Flashback 2016: The conventional wisdom: Jeremy Corbyn and the ABC",
             "description": "Flashback 2016: The conventional wisdom: Jeremy Corbyn and the ABC",
             "author": "David Donovan",
-            "date": 1632898800.0,
             "intensityScore": 0.5267
         },
         {
             "headline": " Government's climate change web of lies",
             "description": "Government's climate change web of lies",
             "author": "Sue Arnold",
-            "date": 1632880800.0,
             "intensityScore": -0.4215
         },
         {
             "headline": " Artificial intelligence to better understand our world",
             "description": "Artificial intelligence to better understand our world",
             "author": "Paul Budde",
-            "date": 1632866400.0,
             "intensityScore": 0.7184
-        },
+        }
+    ],
+    "30/09/2021": [
         {
-            "headline": " Morrison Government aspires to net zero \u2014 on climate action",
-            "description": "Morrison Government aspires to net zero \u2014 on climate action",
+            "headline": " Morrison Government aspires to net zero — on climate action",
+            "description": "Morrison Government aspires to net zero — on climate action",
             "author": "Michelle Pini",
-            "date": 1632952800.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " WHAT'S ON: Squid Game \u2014 Netflix and kill",
-            "description": "WHAT'S ON: Squid Game \u2014 Netflix and kill",
+            "headline": " WHAT'S ON: Squid Game — Netflix and kill",
+            "description": "WHAT'S ON: Squid Game — Netflix and kill",
             "author": "Dan Jensen",
-            "date": 1632985200.0,
             "intensityScore": -0.6908
         },
         {
             "headline": " Australia's approval of gas projects lighting climate change fires",
             "description": "Australia's approval of gas projects lighting climate change fires",
             "author": "David Shearman",
-            "date": 1632967200.0,
             "intensityScore": 0.4767
         },
         {
             "headline": " Uncertainty looms for offshore visa holders",
             "description": "Uncertainty looms for offshore visa holders",
             "author": "Lina Li",
-            "date": 1632981600.0,
             "intensityScore": -0.4588
-        },
+        }
+    ],
+    "01/10/2021": [
         {
             "headline": " World Bank solution to Rohingya crisis comes with limitations",
             "description": "World Bank solution to Rohingya crisis comes with limitations",
             "author": "Kazi Jamshed",
-            "date": 1633071600.0,
             "intensityScore": -0.4215
         },
         {
             "headline": " BOOK REVIEW: The Accidental Prime Minister by Annika Smethurst",
             "description": "BOOK REVIEW: The Accidental Prime Minister by Annika Smethurst",
             "author": "Stephen Saunders",
-            "date": 1633068000.0,
             "intensityScore": -0.0772
         },
         {
             "headline": " The murderous plot against Julian Assange",
             "description": "The murderous plot against Julian Assange",
             "author": "John Jiggens",
-            "date": 1633053600.0,
             "intensityScore": -0.6369
         },
         {
             "headline": " CARTOONS: Mark David does diplomacy",
             "description": "CARTOONS: Mark David does diplomacy",
             "author": "Mark David",
-            "date": 1633046400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " From fascism to farce to the next election",
             "description": "From fascism to farce to the next election",
             "author": "Martin Hirst",
-            "date": 1633039200.0,
             "intensityScore": -0.4019
-        },
+        }
+    ],
+    "02/10/2021": [
         {
             "headline": " The risky business behind Morrison's submarine deal",
             "description": "The risky business behind Morrison's submarine deal",
             "author": "Lee Duffield",
-            "date": 1633154400.0,
             "intensityScore": -0.2023
         },
         {
             "headline": " Trevor St Baker and the latest push for nuclear energy",
             "description": "Trevor St Baker and the latest push for nuclear energy",
             "author": "David Paull",
-            "date": 1633140000.0,
             "intensityScore": 0.2732
         },
         {
             "headline": " Wren's Week: Scott Morrison is destroying Australia's future inside and out",
             "description": "Wren's Week: Scott Morrison is destroying Australia's future inside and out",
             "author": "None found",
-            "date": 1633125600.0,
             "intensityScore": -0.5574
-        },
+        }
+    ],
+    "03/10/2021": [
         {
             "headline": " Australia's music scene plunges deeper into poverty",
             "description": "Australia's music scene plunges deeper into poverty",
             "author": "Daniel Holmes",
-            "date": 1633237200.0,
             "intensityScore": -0.5106
         },
         {
-            "headline": " IA Book Club: The Crime of Not Knowing Your Crime \u2013 Ric Throssell Against ASIO",
-            "description": "IA Book Club: The Crime of Not Knowing Your Crime \u2013 Ric Throssell Against ASIO",
+            "headline": " IA Book Club: The Crime of Not Knowing Your Crime – Ric Throssell Against ASIO",
+            "description": "IA Book Club: The Crime of Not Knowing Your Crime – Ric Throssell Against ASIO",
             "author": "Jim Kable",
-            "date": 1633222800.0,
             "intensityScore": -0.1655
         },
         {
             "headline": " Nurses in crisis under 'care-less' Coalition",
             "description": "Nurses in crisis under 'care-less' Coalition",
             "author": "Kylie Ward",
-            "date": 1633208400.0,
             "intensityScore": -0.6249
         },
+        {
+            "headline": " We need to urgently talk about the nursing crisis in Australia",
+            "description": "We need to urgently talk about the nursing crisis in Australia",
+            "author": "Kylie Ward",
+            "intensityScore": -0.6249
+        }
+    ],
+    "04/10/2021": [
         {
             "headline": " It's a pandemic, not Braveheart: 'Freedom day' complicates COVID fight",
             "description": "It's a pandemic, not Braveheart: 'Freedom day' complicates COVID fight",
             "author": "Victoria Fielding",
-            "date": 1633320000.0,
             "intensityScore": -0.7156
         },
         {
             "headline": " Berejiklian and Barilaro out, but let's not celebrate yet",
             "description": "Berejiklian and Barilaro out, but let's not celebrate yet",
             "author": "Jennifer Wilson",
-            "date": 1633312800.0,
             "intensityScore": -0.612
         },
         {
             "headline": " The Australian 'police state' is nothing new",
             "description": "The Australian 'police state' is nothing new",
             "author": "Dechlan Brennan",
-            "date": 1633305600.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Frydenberg\u2019s mental health accusations against Andrews exposed as baseless",
-            "description": "Frydenberg\u2019s mental health accusations against Andrews exposed as baseless",
+            "headline": " Frydenberg’s mental health accusations against Andrews exposed as baseless",
+            "description": "Frydenberg’s mental health accusations against Andrews exposed as baseless",
             "author": "Alan Austin",
-            "date": 1633291200.0,
             "intensityScore": -0.3818
-        },
+        }
+    ],
+    "05/10/2021": [
         {
             "headline": " Outgoing NSW Premier Gladys 'The Great' Berejiklian joins 'Insniders'",
             "description": "Outgoing NSW Premier Gladys 'The Great' Berejiklian joins 'Insniders'",
             "author": "Michelle Pini",
-            "date": 1633381200.0,
             "intensityScore": 0.743
         },
         {
             "headline": " Liberal Party trashing its own reputation",
             "description": "Liberal Party trashing its own reputation",
             "author": "Lee Duffield",
-            "date": 1633406400.0,
             "intensityScore": 0.4019
-        },
-        {
-            "headline": " The Morrison clown show goes on",
-            "description": "The Morrison clown show goes on",
-            "author": "Lee Duffield",
-            "date": 1620973800.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " We need to urgently talk about the nursing crisis in Australia",
-            "description": "We need to urgently talk about the nursing crisis in Australia",
-            "author": "Kylie Ward",
-            "date": 1633208400.0,
-            "intensityScore": -0.6249
         },
         {
             "headline": " Partner visas the big winner in new Migration Program",
             "description": "Partner visas the big winner in new Migration Program",
             "author": "Lina Li",
-            "date": 1633392000.0,
             "intensityScore": 0.5859
         },
         {
             "headline": " NSW corruption: Gladys Berejiklian is just the beginning",
             "description": "NSW corruption: Gladys Berejiklian is just the beginning",
             "author": "Ross Jones",
-            "date": 1633377600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "06/10/2021": [
         {
             "headline": " Flashback 2019: Fires rage as Berejiklian ignores advice and decimates what's left",
             "description": "Flashback 2019: Fires rage as Berejiklian ignores advice and decimates what's left",
             "author": "Sue Arnold",
-            "date": 1633496400.0,
             "intensityScore": -0.6908
         },
         {
             "headline": " AUKUS nothing more than a re-election stunt",
             "description": "AUKUS nothing more than a re-election stunt",
             "author": "Geoff Davies",
-            "date": 1633492800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " The Coalition of climate criminals",
             "description": "The Coalition of climate criminals",
             "author": "Hannah Thomas",
-            "date": 1633478400.0,
             "intensityScore": -0.5719
         },
         {
             "headline": " Zuckerberg's metaverse comes with serious flaws",
             "description": "Zuckerberg's metaverse comes with serious flaws",
             "author": "Paul Budde",
-            "date": 1633464000.0,
             "intensityScore": -0.0772
-        },
+        }
+    ],
+    "07/10/2021": [
         {
-            "headline": " Friendlyjordies and the NSW Government\u2019s demise",
-            "description": "Friendlyjordies and the NSW Government\u2019s demise",
+            "headline": " Friendlyjordies and the NSW Government’s demise",
+            "description": "Friendlyjordies and the NSW Government’s demise",
             "author": "Michelle Pini",
-            "date": 1633550400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Conservatives like Tudge think they need history but not historians",
             "description": "Conservatives like Tudge think they need history but not historians",
             "author": "Paul Taucher",
-            "date": 1633579200.0,
             "intensityScore": 0.1901
         },
         {
-            "headline": " WHAT'S ON: Boss Level \u2014 groundhog slay",
-            "description": "WHAT'S ON: Boss Level \u2014 groundhog slay",
+            "headline": " WHAT'S ON: Boss Level — groundhog slay",
+            "description": "WHAT'S ON: Boss Level — groundhog slay",
             "author": "Dan Jensen",
-            "date": 1633582800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Under Morrison, Australia strives to be unincorporated territory of U.S.",
             "description": "Under Morrison, Australia strives to be unincorporated territory of U.S.",
             "author": "Peter Henning",
-            "date": 1633564800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "08/10/2021": [
         {
             "headline": " Morrison's AUKUS deal crippling foreign policy",
             "description": "Morrison's AUKUS deal crippling foreign policy",
             "author": "Paul Begley",
-            "date": 1633665600.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Berejiklian\u2019s resignation ignites mainstream media lovefest",
-            "description": "Berejiklian\u2019s resignation ignites mainstream media lovefest",
+            "headline": " Berejiklian’s resignation ignites mainstream media lovefest",
+            "description": "Berejiklian’s resignation ignites mainstream media lovefest",
             "author": "Hayden O'Connor",
-            "date": 1633636800.0,
             "intensityScore": -0.296
         },
         {
             "headline": " LNP turmoil illuminates the power of institutional narratives",
             "description": "LNP turmoil illuminates the power of institutional narratives",
             "author": "Elroy Rosenberg",
-            "date": 1633651200.0,
             "intensityScore": -0.3612
         },
         {
             "headline": " CARTOONS: Mark David does a runner",
             "description": "CARTOONS: Mark David does a runner",
             "author": "Mark David",
-            "date": 1633644000.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "09/10/2021": [
         {
             "headline": " The vaccination saga: Infections, hesitancy and inequality",
             "description": "The vaccination saga: Infections, hesitancy and inequality",
             "author": "Bilal Cleland",
-            "date": 1633752000.0,
             "intensityScore": -0.2263
         },
         {
             "headline": " IA Book Club: Two Revolutions and the Constitution",
             "description": "IA Book Club: Two Revolutions and the Constitution",
             "author": "Julie McNeill",
-            "date": 1633737600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Fake vaccine passports making the pandemic more difficult",
             "description": "Fake vaccine passports making the pandemic more difficult",
             "author": "Tom Tanuki",
-            "date": 1633723200.0,
             "intensityScore": -0.7089
-        },
+        }
+    ],
+    "10/10/2021": [
         {
             "headline": " Coalition overreach: Twitter is not the problem",
             "description": "Coalition overreach: Twitter is not the problem",
             "author": "Martin Hirst",
-            "date": 1633813200.0,
             "intensityScore": 0.3089
         },
         {
             "headline": " Hitting the snooze button on Big Australia in the wake of COVID-19",
             "description": "Hitting the snooze button on Big Australia in the wake of COVID-19",
             "author": "Michael Bayliss",
-            "date": 1633842000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Scotty from marketing sells the nation on Gladys' reputation",
             "description": "Scotty from marketing sells the nation on Gladys' reputation",
             "author": "Rocky Dabscheck",
-            "date": 1633827600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "11/10/2021": [
         {
             "headline": " Collaery's trial to be public, but it should be abandoned",
             "description": "Collaery's trial to be public, but it should be abandoned",
             "author": "Dechlan Brennan",
-            "date": 1633924800.0,
             "intensityScore": -0.6124
         },
         {
             "headline": " Australians must be wary of Trump's &quot;big lie&quot; infiltrating our politics",
             "description": "Australians must be wary of Trump's &amp;quot;big lie&amp;quot; infiltrating our politics",
             "author": "Sue Arnold",
-            "date": 1633910400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Mainstream media ignore mental health data to denigrate Dan Andrews",
             "description": "Mainstream media ignore mental health data to denigrate Dan Andrews",
             "author": "Alan Austin",
-            "date": 1633896000.0,
             "intensityScore": -0.3612
         },
+        {
+            "headline": " Australians must be wary of Trump's 'big lie' infiltrating our politics",
+            "description": "Australians must be wary of Trump's 'big lie' infiltrating our politics",
+            "author": "Sue Arnold",
+            "intensityScore": 0.0
+        }
+    ],
+    "12/10/2021": [
         {
             "headline": " Gun club grant rejected for years before Daryl Maguire involvement",
             "description": "Gun club grant rejected for years before Daryl Maguire involvement",
             "author": "Anthony Klan",
-            "date": 1634011200.0,
             "intensityScore": -0.4939
         },
         {
-            "headline": " A brief history of the Coalition\u2019s fake social media accounts",
-            "description": "A brief history of the Coalition\u2019s fake social media accounts",
+            "headline": " A brief history of the Coalition’s fake social media accounts",
+            "description": "A brief history of the Coalition’s fake social media accounts",
             "author": "Andrew P Street",
-            "date": 1633982400.0,
             "intensityScore": -0.4767
         },
         {
             "headline": " China versus USA: The demographic dimensions",
             "description": "China versus USA: The demographic dimensions",
             "author": "Abul Rizvi",
-            "date": 1633996800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "13/10/2021": [
         {
-            "headline": " On IA: Weekly recap \u2014 13 October",
-            "description": "On IA: Weekly recap \u2014 13 October",
+            "headline": " On IA: Weekly recap — 13 October",
+            "description": "On IA: Weekly recap — 13 October",
             "author": "Dan Jensen",
-            "date": 1634103240.0,
             "intensityScore": 0.0
         },
         {
             "headline": " What living with COVID would really mean for Australia",
             "description": "What living with COVID would really mean for Australia",
             "author": "John Quiggin",
-            "date": 1634097600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Coalition complacency worsened NSW COVID winter",
             "description": "Coalition complacency worsened NSW COVID winter",
             "author": "Lee Duffield",
-            "date": 1634083200.0,
             "intensityScore": -0.4404
         },
         {
             "headline": " Telehealth would improve Australia's mental health statistics",
             "description": "Telehealth would improve Australia's mental health statistics",
             "author": "Paul Budde",
-            "date": 1634068800.0,
             "intensityScore": 0.4404
-        },
+        }
+    ],
+    "14/10/2021": [
         {
             "headline": " How Murdoch manipulates the climate of Australian politics",
             "description": "How Murdoch manipulates the climate of Australian politics",
             "author": "Michelle Pini",
-            "date": 1634153400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Flashback 2016: ICAC, Baird and corruption par excellence",
             "description": "Flashback 2016: ICAC, Baird and corruption par excellence",
             "author": "Evan Jones",
-            "date": 1634187600.0,
             "intensityScore": 0.6249
         },
         {
             "headline": " Lack of perspective on Taiwan-China tensions",
             "description": "Lack of perspective on Taiwan-China tensions",
             "author": "Darrell Egan",
-            "date": 1634184000.0,
             "intensityScore": -0.6124
         },
         {
             "headline": " How we are trying to buy an identity in capitalist economies",
             "description": "How we are trying to buy an identity in capitalist economies",
             "author": "Molly Richardson",
-            "date": 1634169600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "15/10/2021": [
         {
-            "headline": " WHAT'S ON: Where To Invade Next \u2014 Moore ideas for a better world",
-            "description": "WHAT'S ON: Where To Invade Next \u2014 Moore ideas for a better world",
+            "headline": " WHAT'S ON: Where To Invade Next — Moore ideas for a better world",
+            "description": "WHAT'S ON: Where To Invade Next — Moore ideas for a better world",
             "author": "Dan Jensen",
-            "date": 1634274000.0,
             "intensityScore": 0.4404
         },
         {
             "headline": " Football season a big win despite pandemic fears",
             "description": "Football season a big win despite pandemic fears",
             "author": "Lee Duffield",
-            "date": 1634270400.0,
             "intensityScore": 0.7296
         },
         {
             "headline": " Pro-vax, pro-union, anti-fascist: Three things to be proud of",
             "description": "Pro-vax, pro-union, anti-fascist: Three things to be proud of",
             "author": "Martin Hirst",
-            "date": 1634256000.0,
             "intensityScore": 0.4767
         },
         {
             "headline": " EXCLUSIVE: Gun club financial report shows mystery grant 'costs'",
             "description": "EXCLUSIVE: Gun club financial report shows mystery grant 'costs'",
             "author": "Anthony Klan",
-            "date": 1634241600.0,
             "intensityScore": 0.3254
         },
         {
             "headline": " CARTOONS: Old King Coal is changing his tune",
             "description": "CARTOONS: Old King Coal is changing his tune",
             "author": "Mark David",
-            "date": 1634248800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "16/10/2021": [
         {
             "headline": " An open letter to Prime Minister Scott Morrison",
             "description": "An open letter to Prime Minister Scott Morrison",
             "author": "Graeme Doyle",
-            "date": 1634356800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Grassroots campaign against Christian Porter grows",
             "description": "Grassroots campaign against Christian Porter grows",
             "author": "Emma Willson",
-            "date": 1634342400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Skilling Australians Fund: A fee for no service",
             "description": "Skilling Australians Fund: A fee for no service",
             "author": "Lina Li",
-            "date": 1634328000.0,
             "intensityScore": -0.296
-        },
+        }
+    ],
+    "17/10/2021": [
         {
             "headline": " Returning to the office post-COVID: It's not set in concrete",
             "description": "Returning to the office post-COVID: It's not set in concrete",
             "author": "Peter Fisher",
-            "date": 1634432400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " To improve mental health systems we must connect with their users",
             "description": "To improve mental health systems we must connect with their users",
             "author": "Fi Peel",
-            "date": 1634418000.0,
             "intensityScore": 0.4404
         },
         {
             "headline": " COVIDSafe app: Missing the mark Coalition-style",
             "description": "COVIDSafe app: Missing the mark Coalition-style",
             "author": "Binoy Kampmark",
-            "date": 1634446800.0,
             "intensityScore": -0.296
-        },
-        {
-            "headline": " Australians must be wary of Trump's 'big lie' infiltrating our politics",
-            "description": "Australians must be wary of Trump's 'big lie' infiltrating our politics",
-            "author": "Sue Arnold",
-            "date": 1633910400.0,
-            "intensityScore": 0.0
-        },
+        }
+    ],
+    "18/10/2021": [
         {
             "headline": " Media inequality shows Labor scandals covered more than Liberal",
             "description": "Media inequality shows Labor scandals covered more than Liberal",
             "author": "Victoria Fielding",
-            "date": 1634529600.0,
             "intensityScore": -0.4939
         },
         {
             "headline": " Billboard mocks Morrison as Australia prepares for COP26",
             "description": "Billboard mocks Morrison as Australia prepares for COP26",
             "author": "Binoy Kampmark",
-            "date": 1634515200.0,
             "intensityScore": -0.4588
         },
         {
             "headline": " Australia needs an ICAC, but also mandatory gaol sentences",
             "description": "Australia needs an ICAC, but also mandatory gaol sentences",
             "author": "Alan Austin",
-            "date": 1634500800.0,
             "intensityScore": 0.1901
-        },
+        }
+    ],
+    "19/10/2021": [
         {
             "headline": " Flashback 2015: Coal comfort: The atomic emasculation of Malcolm Turnbull",
             "description": "Flashback 2015: Coal comfort: The atomic emasculation of Malcolm Turnbull",
             "author": "David Donovan",
-            "date": 1634619600.0,
             "intensityScore": 0.3612
         },
         {
             "headline": " Transparency lacking in Australian defence policy",
             "description": "Transparency lacking in Australian defence policy",
             "author": "Sue Wareham",
-            "date": 1634616000.0,
             "intensityScore": 0.1027
         },
         {
             "headline": " Environment in peril as Premier urged to increase population",
             "description": "Environment in peril as Premier urged to increase population",
             "author": "Sue Arnold",
-            "date": 1634601600.0,
             "intensityScore": -0.1027
         },
         {
             "headline": " The people versus Scott Morrison",
             "description": "The people versus Scott Morrison",
             "author": "Jennifer Wilson",
-            "date": 1634587200.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "20/10/2021": [
         {
             "headline": " Dominic Perrottet drawn into ICAC gun club scandal",
             "description": "Dominic Perrottet drawn into ICAC gun club scandal",
             "author": "Anthony Klan",
-            "date": 1634702400.0,
             "intensityScore": -0.6486
         },
         {
             "headline": " Indigenous communities suffering most from Australia's climate inaction",
             "description": "Indigenous communities suffering most from Australia's climate inaction",
             "author": "Joanna Psaros",
-            "date": 1634695200.0,
             "intensityScore": -0.6249
         },
         {
             "headline": " Government unaccountability: Over 1,000 days and counting",
             "description": "Government unaccountability: Over 1,000 days and counting",
             "author": "Daniel Holmes",
-            "date": 1634688000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Using smart cities to protect democracy",
             "description": "Using smart cities to protect democracy",
             "author": "Paul Budde",
-            "date": 1634673600.0,
             "intensityScore": 0.6486
-        },
+        }
+    ],
+    "21/10/2021": [
         {
             "headline": " Medicare cuts prove the Coalition is bad for our health",
             "description": "Medicare cuts prove the Coalition is bad for our health",
             "author": "Michelle Pini",
-            "date": 1634760000.0,
             "intensityScore": -0.6908
         },
         {
-            "headline": " WHAT'S ON: The Last Duel \u2014 #metoo goes medieval",
-            "description": "WHAT'S ON: The Last Duel \u2014 #metoo goes medieval",
+            "headline": " WHAT'S ON: The Last Duel — #metoo goes medieval",
+            "description": "WHAT'S ON: The Last Duel — #metoo goes medieval",
             "author": "Dan Jensen",
-            "date": 1634792400.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Despite royal family\u2019s scandals, Australia is unlikely to ditch monarchy",
-            "description": "Despite royal family\u2019s scandals, Australia is unlikely to ditch monarchy",
+            "headline": " Despite royal family’s scandals, Australia is unlikely to ditch monarchy",
+            "description": "Despite royal family’s scandals, Australia is unlikely to ditch monarchy",
             "author": "Hsin-Yi Lo",
-            "date": 1634788800.0,
             "intensityScore": 0.3875
         },
         {
             "headline": " Undeterred by pariah status, PM to wave 'green and gold' at Glasgow",
             "description": "Undeterred by pariah status, PM to wave 'green and gold' at Glasgow",
             "author": "Joel Jenkins",
-            "date": 1634774400.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "22/10/2021": [
         {
             "headline": " UN and Bangladesh work together to protect the Rohingya people",
             "description": "UN and Bangladesh work together to protect the Rohingya people",
             "author": "Shaik Abdur Rahman",
-            "date": 1634875200.0,
             "intensityScore": 0.3818
         },
         {
             "headline": " Universities, governments and companies can help avert climate catastrophe",
             "description": "Universities, governments and companies can help avert climate catastrophe",
             "author": "David Ritter",
-            "date": 1634846400.0,
             "intensityScore": -0.5267
         },
         {
             "headline": " ABC showing Liberal bias in lockdown coverage",
             "description": "ABC showing Liberal bias in lockdown coverage",
             "author": "Hayden O'Connor",
-            "date": 1634860800.0,
             "intensityScore": -0.1027
         },
         {
             "headline": " CARTOONS: Mark David is checking the climate",
             "description": "CARTOONS: Mark David is checking the climate",
             "author": "Mark David",
-            "date": 1634853600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "23/10/2021": [
         {
             "headline": " Further details emerge as Premier Perrottet linked to ICAC gun club grant",
             "description": "Further details emerge as Premier Perrottet linked to ICAC gun club grant",
             "author": "Anthony Klan",
-            "date": 1634932800.0,
             "intensityScore": 0.0258
         },
         {
-            "headline": " ON IA: BREAKING NEWS \u2014 Perrottet exclusive with Anthony Klan",
-            "description": "ON IA: BREAKING NEWS \u2014 Perrottet exclusive with Anthony Klan",
+            "headline": " ON IA: BREAKING NEWS — Perrottet exclusive with Anthony Klan",
+            "description": "ON IA: BREAKING NEWS — Perrottet exclusive with Anthony Klan",
             "author": "Michelle Pini",
-            "date": 1634943600.0,
             "intensityScore": 0.128
         },
         {
             "headline": " Citizen journalism on the rise in Australian fringe politics",
             "description": "Citizen journalism on the rise in Australian fringe politics",
             "author": "Tom Tanuki",
-            "date": 1634961600.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Update of Australia\u2019s biggest ever labour trafficking scam",
-            "description": "Update of Australia\u2019s biggest ever labour trafficking scam",
+            "headline": " Update of Australia’s biggest ever labour trafficking scam",
+            "description": "Update of Australia’s biggest ever labour trafficking scam",
             "author": "Abul Rizvi",
-            "date": 1634947200.0,
             "intensityScore": -0.5719
         },
         {
-            "headline": " 'Death of a Whale: The Challenge of Anti-Whaling Activists and Indigenous Rights' \u2014 an excerpt",
-            "description": "'Death of a Whale: The Challenge of Anti-Whaling Activists and Indigenous Rights' \u2014 an excerpt",
+            "headline": " IA Book Club: Confronting the global climate crisis",
+            "description": "IA Book Club: Confronting the global climate crisis",
+            "author": "Bob Ashcroft",
+            "intensityScore": -0.6908
+        }
+    ],
+    "24/10/2021": [
+        {
+            "headline": " 'Death of a Whale: The Challenge of Anti-Whaling Activists and Indigenous Rights' — an excerpt",
+            "description": "'Death of a Whale: The Challenge of Anti-Whaling Activists and Indigenous Rights' — an excerpt",
             "author": "Paul Watson",
-            "date": 1635022800.0,
             "intensityScore": -0.5574
         },
         {
             "headline": " Iconic Afghanistan: Life before war",
             "description": "Iconic Afghanistan: Life before war",
             "author": "Thomas Parrish, Mark Parrish",
-            "date": 1635037200.0,
             "intensityScore": -0.5994
-        },
-        {
-            "headline": " IA Book Club: Confronting the global climate crisis",
-            "description": "IA Book Club: Confronting the global climate crisis",
-            "author": "Bob Ashcroft",
-            "date": 1634965200.0,
-            "intensityScore": -0.6908
-        },
+        }
+    ],
+    "25/10/2021": [
         {
             "headline": " KERRYN PHELPS: Passing the COVID buck risks more than government reputations",
             "description": "KERRYN PHELPS: Passing the COVID buck risks more than government reputations",
             "author": "Professor Kerryn Phelps AM",
-            "date": 1635134400.0,
             "intensityScore": -0.2732
         },
         {
             "headline": " Tudge flags freedom of speech while whitewashing Australia's past",
             "description": "Tudge flags freedom of speech while whitewashing Australia's past",
             "author": "Dechlan Brennan",
-            "date": 1635130800.0,
             "intensityScore": 0.6369
         },
         {
             "headline": " The Liberals must call Nationals' bluff on climate",
             "description": "The Liberals must call Nationals' bluff on climate",
             "author": "Tim Thornton",
-            "date": 1635120000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Australian economy languishes while Ireland, Singapore, NZ soar",
             "description": "Australian economy languishes while Ireland, Singapore, NZ soar",
             "author": "Alan Austin",
-            "date": 1635105600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "26/10/2021": [
         {
-            "headline": " Telstra\u2019s Digicel buy is politically motivated",
-            "description": "Telstra\u2019s Digicel buy is politically motivated",
+            "headline": " Telstra’s Digicel buy is politically motivated",
+            "description": "Telstra’s Digicel buy is politically motivated",
             "author": "Paul Budde",
-            "date": 1635206400.0,
             "intensityScore": 0.4588
         },
         {
             "headline": " Flashback 2016: Whence the Commonweal: The rise of the dunces",
             "description": "Flashback 2016: Whence the Commonweal: The rise of the dunces",
             "author": "Evan Jones",
-            "date": 1635224400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " National Farmers Federation needs to embrace climate adaption",
             "description": "National Farmers Federation needs to embrace climate adaption",
             "author": "David Paull",
-            "date": 1635220800.0,
             "intensityScore": 0.3182
         },
         {
             "headline": " Nationals ridiculous net zero deal doesn't even matter",
             "description": "Nationals ridiculous net zero deal doesn't even matter",
             "author": "Andrew P Street",
-            "date": 1635192000.0,
             "intensityScore": -0.3765
-        },
+        }
+    ],
+    "27/10/2021": [
         {
             "headline": " EXCLUSIVE: European MPs explain their 'no' to Assange extradition",
             "description": "EXCLUSIVE: European MPs explain their 'no' to Assange extradition",
             "author": "Sara Chessa",
-            "date": 1635307200.0,
             "intensityScore": 0.3034
         },
         {
             "headline": " Boris Johnson fails to act despite damning COVID-19 report",
             "description": "Boris Johnson fails to act despite damning COVID-19 report",
             "author": "Steve Bishop",
-            "date": 1635292800.0,
             "intensityScore": -0.1935
         },
         {
             "headline": " The Goward's punch",
             "description": "The Goward's punch",
             "author": "Joel Jenkins",
-            "date": 1635278400.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " The Plan: Winking, blinding and eye-watering Coalition negligence",
-            "description": "The Plan: Winking, blinding and eye-watering Coalition negligence",
-            "author": "Michelle Pini",
-            "date": 1635363000.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " From climate to corruption, the Morrison Government needs to go",
-            "description": "From climate to corruption, the Morrison Government needs to go",
-            "author": "Graham Perrett",
-            "date": 1635397200.0,
-            "intensityScore": 0.0
-        },
-        {
-            "headline": " Perrottet pushes mass migration harder than Morrison",
-            "description": "Perrottet pushes mass migration harder than Morrison",
-            "author": "Stephen Saunders",
-            "date": 1635393600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " EXCLUSIVE: Europe says 'No' to Assange extradition",
             "description": "EXCLUSIVE: Europe says 'No' to Assange extradition",
             "author": "Sara Chessa",
-            "date": 1635307200.0,
             "intensityScore": 0.3034
+        }
+    ],
+    "28/10/2021": [
+        {
+            "headline": " The Plan: Winking, blinding and eye-watering Coalition negligence",
+            "description": "The Plan: Winking, blinding and eye-watering Coalition negligence",
+            "author": "Michelle Pini",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " From climate to corruption, the Morrison Government needs to go",
+            "description": "From climate to corruption, the Morrison Government needs to go",
+            "author": "Graham Perrett",
+            "intensityScore": 0.0
+        },
+        {
+            "headline": " Perrottet pushes mass migration harder than Morrison",
+            "description": "Perrottet pushes mass migration harder than Morrison",
+            "author": "Stephen Saunders",
+            "intensityScore": 0.0
         },
         {
             "headline": " The time is now: Western Sahara must gain independence",
             "description": "The time is now: Western Sahara must gain independence",
             "author": "Kamal Fadel",
-            "date": 1635379200.0,
             "intensityScore": 0.5267
-        },
+        }
+    ],
+    "29/10/2021": [
         {
             "headline": " Labor needs to stand up",
             "description": "Labor needs to stand up",
             "author": "Dechlan Brennan",
-            "date": 1635480000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Australia needs a federal human rights act",
             "description": "Australia needs a federal human rights act",
             "author": "Gerry Georgatos",
-            "date": 1635465600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " CARTOONS: Scotty's Claytons climate plan",
             "description": "CARTOONS: Scotty's Claytons climate plan",
             "author": "Mark David",
-            "date": 1635458400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " China may be Morrison's last hope for re-election",
             "description": "China may be Morrison's last hope for re-election",
             "author": "Paul Begley",
-            "date": 1635451200.0,
             "intensityScore": 0.4404
-        },
+        }
+    ],
+    "30/10/2021": [
         {
-            "headline": " WHAT'S ON: Love You Like That \u2014 Cupid's arrow misses the mark",
-            "description": "WHAT'S ON: Love You Like That \u2014 Cupid's arrow misses the mark",
+            "headline": " WHAT'S ON: Love You Like That — Cupid's arrow misses the mark",
+            "description": "WHAT'S ON: Love You Like That — Cupid's arrow misses the mark",
             "author": "Dan Jensen",
-            "date": 1635566400.0,
             "intensityScore": 0.7003
         },
         {
             "headline": " Full employment not necessarily the holy grail in a flexible market economy",
             "description": "Full employment not necessarily the holy grail in a flexible market economy",
             "author": "Graham White",
-            "date": 1635553800.0,
             "intensityScore": 0.2263
         },
         {
             "headline": " U.S. appeal against Assange opens",
             "description": "U.S. appeal against Assange opens",
             "author": "Binoy Kampmark",
-            "date": 1635537600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "31/10/2021": [
         {
             "headline": " EXCLUSIVE: Lost for words, Dominique Grubisa resorts to plagiarism",
             "description": "EXCLUSIVE: Lost for words, Dominique Grubisa resorts to plagiarism",
             "author": "David Donovan",
-            "date": 1635652800.0,
             "intensityScore": -0.0173
         },
         {
             "headline": " Goward article galling",
             "description": "Goward article galling",
             "author": "Bilal Cleland",
-            "date": 1635627600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Religious discrimination bill: The devil is in the details",
             "description": "Religious discrimination bill: The devil is in the details",
             "author": "Meredith Doig",
-            "date": 1635642000.0,
             "intensityScore": -0.6597
-        },
+        }
+    ],
+    "01/11/2021": [
         {
-            "headline": " ON IA: Ask Dave \u2014 1 November 2021",
-            "description": "ON IA: Ask Dave \u2014 1 November 2021",
+            "headline": " ON IA: Ask Dave — 1 November 2021",
+            "description": "ON IA: Ask Dave — 1 November 2021",
             "author": "David Donovan",
-            "date": 1635742800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " It's not 'cancel culture', it's audience feedback",
             "description": "It's not 'cancel culture', it's audience feedback",
             "author": "Victoria Fielding",
-            "date": 1635739200.0,
             "intensityScore": 0.1877
         },
         {
             "headline": " American politics in a state of chaos",
             "description": "American politics in a state of chaos",
             "author": "George Grundy",
-            "date": 1635724800.0,
             "intensityScore": -0.5719
         },
         {
             "headline": " Morrison Government humiliates Australia at G20",
             "description": "Morrison Government humiliates Australia at G20",
             "author": "Alan Austin",
-            "date": 1635710400.0,
             "intensityScore": -0.25
-        },
+        }
+    ],
+    "02/11/2021": [
         {
             "headline": " JOHN PILGER: Justice for Assange is justice for all",
             "description": "JOHN PILGER: Justice for Assange is justice for all",
             "author": "John Pilger",
-            "date": 1635829200.0,
             "intensityScore": 0.7783
         },
         {
             "headline": " COP26 omits biodiversity loss from agenda",
             "description": "COP26 omits biodiversity loss from agenda",
             "author": "Sue Arnold",
-            "date": 1635825600.0,
             "intensityScore": -0.3182
         },
         {
             "headline": " Assange appeal day two: The CIA and empty assurances",
             "description": "Assange appeal day two: The CIA and empty assurances",
             "author": "Binoy Kampmark",
-            "date": 1635814800.0,
             "intensityScore": 0.1531
         },
         {
             "headline": " Morrison gets cold reception at G20",
             "description": "Morrison gets cold reception at G20",
             "author": "Jennifer Wilson",
-            "date": 1635796800.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "03/11/2021": [
         {
             "headline": " Flashback 2014: Arthur Sinodinos goes down the gurgler",
             "description": "Flashback 2014: Arthur Sinodinos goes down the gurgler",
             "author": "Ross Jones",
-            "date": 1635915600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " How Scott Morrison's climate action wishlist was cobbled together",
             "description": "How Scott Morrison's climate action wishlist was cobbled together",
             "author": "Steve Bishop",
-            "date": 1635912000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " New pathway to permanent migration encourages gaming of visa system",
             "description": "New pathway to permanent migration encourages gaming of visa system",
             "author": "Abul Rizvi",
-            "date": 1635897600.0,
             "intensityScore": 0.4404
         },
         {
             "headline": " Interplanetary internet: Communication out of this world",
             "description": "Interplanetary internet: Communication out of this world",
             "author": "Paul Budde",
-            "date": 1635883200.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "04/11/2021": [
         {
             "headline": " Scott Morrison really should resign, oui?",
             "description": "Scott Morrison really should resign, oui?",
             "author": "David Donovan and Michelle Pini",
-            "date": 1635969600.0,
             "intensityScore": -0.3976
         },
         {
             "headline": " Morrison Government continues to trash Australia's reputation on climate",
             "description": "Morrison Government continues to trash Australia's reputation on climate",
             "author": "Graeme McLeay",
-            "date": 1635998400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Federal Government prevents medical community from assisting refugees",
             "description": "Federal Government prevents medical community from assisting refugees",
             "author": "Nilanthy Vigneswaran",
-            "date": 1635984000.0,
             "intensityScore": 0.0772
         },
         {
-            "headline": " WHAT'S ON: Eternals \u2014 big, bold and beautiful",
-            "description": "WHAT'S ON: Eternals \u2014 big, bold and beautiful",
+            "headline": " WHAT'S ON: Eternals — big, bold and beautiful",
+            "description": "WHAT'S ON: Eternals — big, bold and beautiful",
             "author": "Dan Jensen",
-            "date": 1636002000.0,
             "intensityScore": 0.7579
-        },
+        }
+    ],
+    "05/11/2021": [
         {
             "headline": " Australia must help Afghans deprived of lives, dreams and futures",
             "description": "Australia must help Afghans deprived of lives, dreams and futures",
             "author": "Nazdana Soltanfar",
-            "date": 1636084800.0,
             "intensityScore": 0.3182
         },
         {
             "headline": " Tim Smith and the death of political accountability",
             "description": "Tim Smith and the death of political accountability",
             "author": "Dechlan Brennan",
-            "date": 1636070400.0,
             "intensityScore": -0.5994
         },
         {
             "headline": " CARTOONS: Mark David is COP-ping it in Glasgow",
             "description": "CARTOONS: Mark David is COP-ping it in Glasgow",
             "author": "Mark David",
-            "date": 1636063200.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Twitter fights against Porter, van Onselen and Laming\u2019s defamation threats",
-            "description": "Twitter fights against Porter, van Onselen and Laming\u2019s defamation threats",
+            "headline": " Twitter fights against Porter, van Onselen and Laming’s defamation threats",
+            "description": "Twitter fights against Porter, van Onselen and Laming’s defamation threats",
             "author": "Hayden O'Connor",
-            "date": 1636056000.0,
             "intensityScore": -0.6705
-        },
+        }
+    ],
+    "06/11/2021": [
         {
             "headline": " Eddie Obeid is a symptom of a greater problem",
             "description": "Eddie Obeid is a symptom of a greater problem",
             "author": "Karl Fitzgerald",
-            "date": 1636171200.0,
             "intensityScore": -0.0516
         },
         {
             "headline": " Avi Yemini and his ilk are anything but journalists",
             "description": "Avi Yemini and his ilk are anything but journalists",
             "author": "Tom Tanuki",
-            "date": 1636156800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " EXCLUSIVE: ICAC gun club figures don't add up",
             "description": "EXCLUSIVE: ICAC gun club figures don't add up",
             "author": "Anthony Klan",
-            "date": 1636142400.0,
             "intensityScore": -0.0431
-        },
+        }
+    ],
+    "07/11/2021": [
         {
             "headline": " IA Book Club: 'Why You Should Give A F*ck About Farming'",
             "description": "IA Book Club: 'Why You Should Give A F*ck About Farming'",
             "author": "Revelly Robinson",
-            "date": 1636261200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Facebook rebrand: Why Meta is not better",
             "description": "Facebook rebrand: Why Meta is not better",
             "author": "Brett Wilkins",
-            "date": 1636246800.0,
             "intensityScore": -0.3412
         },
         {
             "headline": " Last throw of the dice for Julian Assange",
             "description": "Last throw of the dice for Julian Assange",
             "author": "Ian Curr",
-            "date": 1636232400.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "08/11/2021": [
         {
             "headline": " Dominic Perrotett set to prioritise 'family values' during his tenure",
             "description": "Dominic Perrotett set to prioritise 'family values' during his tenure",
             "author": "Joanna Psaros",
-            "date": 1636344000.0,
             "intensityScore": 0.4019
         },
         {
             "headline": " Alan Tudge opens his own Christian college",
             "description": "Alan Tudge opens his own Christian college",
             "author": "Rocky Dabscheck",
-            "date": 1636329600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " House prices skyrocket and social housing collapses under the Coalition",
             "description": "House prices skyrocket and social housing collapses under the Coalition",
             "author": "Alan Austin",
-            "date": 1636315200.0,
             "intensityScore": -0.296
-        },
+        }
+    ],
+    "09/11/2021": [
         {
             "headline": " Flashback 2019: 10 reasons why Scott Morrison is actually a hypocrite",
             "description": "Flashback 2019: 10 reasons why Scott Morrison is actually a hypocrite",
             "author": "Michelle Pini",
-            "date": 1636434000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Religious Freedom Bill is Morrison's re-election strategy",
             "description": "Religious Freedom Bill is Morrison's re-election strategy",
             "author": "Andrew P Street",
-            "date": 1636430400.0,
             "intensityScore": 0.6369
         },
         {
             "headline": " Scott Morrison: A lonely man with an empty plan",
             "description": "Scott Morrison: A lonely man with an empty plan",
             "author": "Joel Jenkins",
-            "date": 1636416000.0,
             "intensityScore": -0.5106
         },
         {
             "headline": " NSW ICAC renews urge for federal commission",
             "description": "NSW ICAC renews urge for federal commission",
             "author": "Matthew Butera",
-            "date": 1636401600.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "10/11/2021": [
         {
-            "headline": " WHAT'S ON: No Time To Die \u2014 a Bond farewell",
-            "description": "WHAT'S ON: No Time To Die \u2014 a Bond farewell",
+            "headline": " WHAT'S ON: No Time To Die — a Bond farewell",
+            "description": "WHAT'S ON: No Time To Die — a Bond farewell",
             "author": "Dan Jensen",
-            "date": 1636520400.0,
             "intensityScore": -0.7269
         },
         {
             "headline": " 'Shady' Michael Sukkar is dodging accountability",
             "description": "'Shady' Michael Sukkar is dodging accountability",
             "author": "Kieran Simpson",
-            "date": 1636516800.0,
             "intensityScore": -0.1027
         },
         {
             "headline": " Scott Morrison wants to be Australia's Donald Trump",
             "description": "Scott Morrison wants to be Australia's Donald Trump",
             "author": "Paul Begley",
-            "date": 1636502400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Cirque du Soleil explores VR and holoportation",
             "description": "Cirque du Soleil explores VR and holoportation",
             "author": "Paul Budde",
-            "date": 1636488000.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "11/11/2021": [
         {
             "headline": " Kings of defamation: Porter, Laming, Barilaro, Dutton et al",
             "description": "Kings of defamation: Porter, Laming, Barilaro, Dutton e",
             "author": "Michelle Pini",
-            "date": 1636574400.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " On IA: Weekly recap \u2014 11 November 2021",
-            "description": "On IA: Weekly recap \u2014 11 November ",
+            "headline": " On IA: Weekly recap — 11 November 2021",
+            "description": "On IA: Weekly recap — 11 November ",
             "author": "Dan Jensen",
-            "date": 1636606800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " New visa for migrant farm workers could turbocharge exploitation",
             "description": "New visa for migrant farm workers could turbocharge exploita",
             "author": "Abul Rizvi",
-            "date": 1636603200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Wealthy nations like Australia are leading the world to climate catastrophe",
             "description": "Wealthy nations like Australia are leading the world to climate catastr",
             "author": "Hannah Thomas",
-            "date": 1636588800.0,
             "intensityScore": -0.1027
-        },
+        }
+    ],
+    "12/11/2021": [
         {
             "headline": " November is time for Australian republican remembering",
             "description": "November is time for Australian republican remembe",
             "author": "Glenn Davies",
-            "date": 1636689600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Bernard Collaery's trial needs to remain open",
             "description": "Bernard Collaery's trial needs to remain ",
             "author": "Dechlan Brennan",
-            "date": 1636675200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " CARTOONS: Defamations R Us",
             "description": "CARTOONS: Defamations ",
             "author": "Mark David",
-            "date": 1636668000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Twitter criticism is ruffling conservative feathers",
             "description": "Twitter criticism is ruffling conservative feat",
             "author": "Jennifer Wilson",
-            "date": 1636660800.0,
             "intensityScore": -0.4404
-        },
+        }
+    ],
+    "13/11/2021": [
         {
-            "headline": " IA Book Club: 'Memoirs Of A Rebel \u2014 Black Market Shooting'",
-            "description": "IA Book Club: 'Memoirs Of A Rebel \u2014 Black Market Shoot",
+            "headline": " IA Book Club: 'Memoirs Of A Rebel — Black Market Shooting'",
+            "description": "IA Book Club: 'Memoirs Of A Rebel — Black Market Shoot",
             "author": "Lindy Kittel",
-            "date": 1636776000.0,
             "intensityScore": -0.1531
         },
         {
             "headline": " Farmers claim win over fossil fuel industry",
             "description": "Farmers claim win over fossil fuel indu",
             "author": "Johanna Evans",
-            "date": 1636761600.0,
             "intensityScore": 0.5859
         },
         {
             "headline": " EXCLUSIVE: Dominique Grubisa's dodgy debt department",
             "description": "EXCLUSIVE: Dominique Grubisa's dodgy debt depart",
             "author": "David Donovan",
-            "date": 1636747200.0,
             "intensityScore": -0.2885
-        },
+        }
+    ],
+    "14/11/2021": [
         {
             "headline": " Incarceration: How Australia fails its vulnerable",
             "description": "Incarceration: How Australia fails its vulner",
             "author": "Gerry Georgatos",
-            "date": 1636851600.0,
             "intensityScore": -0.5719
         },
         {
             "headline": " COVID-19 is a race and our children are left at the starting line",
             "description": "COVID-19 is a race and our children are left at the starting ",
             "author": "Natalie Beak",
-            "date": 1636837200.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "15/11/2021": [
         {
             "headline": " Scott Morrison has mastered the art of lying",
             "description": "Scott Morrison has mastered the art of l",
             "author": "Binoy Kampmark",
-            "date": 1636948800.0,
             "intensityScore": -0.5267
         },
         {
-            "headline": " Public inquiry is showing Australia\u2019s unheard call for new foreign policy",
-            "description": "Public inquiry is showing Australia\u2019s unheard call for new foreign po",
+            "headline": " Public inquiry is showing Australia’s unheard call for new foreign policy",
+            "description": "Public inquiry is showing Australia’s unheard call for new foreign po",
             "author": "Kellie Tranter",
-            "date": 1636934400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Living standards tumbling in Australia despite booming national wealth",
             "description": "Living standards tumbling in Australia despite booming national we",
             "author": "Alan Austin",
-            "date": 1636920000.0,
             "intensityScore": -0.3875
-        },
+        }
+    ],
+    "16/11/2021": [
         {
             "headline": " Flashback 2012: Prominent Liberal says Gillard should be kicked to death",
             "description": "Flashback 2012: Prominent Liberal says Gillard should be kicked to d",
             "author": "David Donovan",
-            "date": 1637038800.0,
             "intensityScore": -0.3818
         },
         {
-            "headline": " \u2018Glasgow Pact\u2019 keeps pressure on climate laggards like Australia",
-            "description": "\u2018Glasgow Pact\u2019 keeps pressure on climate laggards like Austr",
+            "headline": " ‘Glasgow Pact’ keeps pressure on climate laggards like Australia",
+            "description": "‘Glasgow Pact’ keeps pressure on climate laggards like Austr",
             "author": "Michael Mazengarb",
-            "date": 1637035200.0,
             "intensityScore": 0.0772
         },
         {
             "headline": " Australian drug laws doing more harm than good",
             "description": "Australian drug laws doing more harm than ",
             "author": "David McIlveen",
-            "date": 1637020800.0,
             "intensityScore": -0.1604
         },
         {
             "headline": " Right-wing commentators turning journalism into public relations",
             "description": "Right-wing commentators turning journalism into public relat",
             "author": "Victoria Fielding",
-            "date": 1637006400.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "17/11/2021": [
         {
             "headline": " EXCLUSIVE: ICAC gun club a failure prior to grant",
             "description": "EXCLUSIVE: ICAC gun club a failure prior to g",
             "author": "Anthony Klan",
-            "date": 1637121600.0,
             "intensityScore": -0.2422
         },
         {
-            "headline": " WHAT'S ON: Last Night in Soho \u2014 a night you'll never forget",
-            "description": "WHAT'S ON: Last Night in Soho \u2014 a night you'll never fo",
+            "headline": " WHAT'S ON: Last Night in Soho — a night you'll never forget",
+            "description": "WHAT'S ON: Last Night in Soho — a night you'll never fo",
             "author": "Dan Jensen",
-            "date": 1637127000.0,
             "intensityScore": 0.1695
         },
         {
             "headline": " Labor possibly handing Morrison another election victory",
             "description": "Labor possibly handing Morrison another election vic",
             "author": "Paul Begley",
-            "date": 1637107200.0,
             "intensityScore": 0.0
         },
         {
-            "headline": " Labor\u2019s NBN plan to reach 8 million households",
-            "description": "Labor\u2019s NBN plan to reach 8 million househ",
+            "headline": " Labor’s NBN plan to reach 8 million households",
+            "description": "Labor’s NBN plan to reach 8 million househ",
             "author": "Paul Budde",
-            "date": 1637092800.0,
             "intensityScore": 0.0258
-        },
+        }
+    ],
+    "18/11/2021": [
         {
             "headline": " Liberals incite Far-Right to lynch Andrews",
             "description": "Liberals incite Far-Right to lynch And",
             "author": "Michelle Pini",
-            "date": 1637179200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " The Far-Right in Melbourne presents a clear danger to democracy",
             "description": "The Far-Right in Melbourne presents a clear danger to democ",
             "author": "Martin Hirst",
-            "date": 1637193600.0,
             "intensityScore": -0.2023
         },
         {
             "headline": " Coalition provocation and silence fueling ugly Melbourne 'protests'",
             "description": "Coalition provocation and silence fueling ugly Melbourne 'prote",
             "author": "Joel Jenkins",
-            "date": 1637208000.0,
             "intensityScore": -0.6369
-        },
+        }
+    ],
+    "19/11/2021": [
         {
             "headline": " Anti-vax rallies stink of Fraser Anning's populism",
             "description": "Anti-vax rallies stink of Fraser Anning's popu",
             "author": "Tom Tanuki",
-            "date": 1637294400.0,
             "intensityScore": -0.4019
         },
         {
             "headline": " Liberals and mainstream media encourage extremism",
             "description": "Liberals and mainstream media encourage extre",
             "author": "Hayden O'Connor",
-            "date": 1637280000.0,
             "intensityScore": 0.5106
         },
         {
             "headline": " CARTOONS: Mark David is selling the truth",
             "description": "CARTOONS: Mark David is selling the t",
             "author": "Mark David",
-            "date": 1637272800.0,
             "intensityScore": 0.3182
         },
         {
             "headline": " Scott Morrison is a threat to the Great Barrier Reef",
             "description": "Scott Morrison is a threat to the Great Barrier ",
             "author": "David Ritter",
-            "date": 1637265600.0,
             "intensityScore": 0.0516
-        },
+        }
+    ],
+    "20/11/2021": [
         {
             "headline": " Rohingya financial burden too great for Bangladesh",
             "description": "Rohingya financial burden too great for Bangla",
             "author": "Kazi Jamshed",
-            "date": 1637380800.0,
             "intensityScore": 0.296
         },
         {
             "headline": " Angus Taylor admits emissions policy was misleading",
             "description": "Angus Taylor admits emissions policy was mislea",
             "author": "Michael Mazengarb",
-            "date": 1637366400.0,
             "intensityScore": -0.128
         },
         {
             "headline": " Scotty the school captain is out of his depth",
             "description": "Scotty the school captain is out of his d",
             "author": "Sam Leckie",
-            "date": 1637352000.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "21/11/2021": [
         {
             "headline": " One person's metaverse is another's dystopian reality",
             "description": "One person's metaverse is another's dystopian rea",
             "author": "Prabir Purkayastha",
-            "date": 1637456400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Sex and disability: The right to intimate connection",
             "description": "Sex and disability: The right to intimate connec",
             "author": "Thea Calzoni",
-            "date": 1637442000.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "22/11/2021": [
         {
             "headline": " How an influx of independents could change Parliament for the worse",
             "description": "How an influx of independents could change Parliament for the w",
             "author": "Kay Rollison",
-            "date": 1637553600.0,
             "intensityScore": -0.4767
         },
         {
             "headline": " Paul Keating slams Morrison's approach to Australia-China relations",
             "description": "Paul Keating slams Morrison's approach to Australia-China relat",
             "author": "Ian Curr",
-            "date": 1637539200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Inflation worse under Coalition than Labor, contrary to Morrison's claims",
             "description": "Inflation worse under Coalition than Labor, contrary to Morrison's cl",
             "author": "Alan Austin",
-            "date": 1637524800.0,
             "intensityScore": -0.4767
-        },
+        }
+    ],
+    "23/11/2021": [
         {
             "headline": " Morrison braves the NSW Electoral Labyrinth Of Doom",
             "description": "Morrison braves the NSW Electoral Labyrinth Of ",
             "author": "Andrew P Street",
-            "date": 1637611200.0,
             "intensityScore": 0.0516
         },
         {
-            "headline": " Australia\u2019s weak labour market causes NZ migration slump",
-            "description": "Australia\u2019s weak labour market causes NZ migration s",
+            "headline": " Australia’s weak labour market causes NZ migration slump",
+            "description": "Australia’s weak labour market causes NZ migration s",
             "author": "Abul Rizvi",
-            "date": 1637640000.0,
             "intensityScore": -0.4404
         },
         {
             "headline": " Protests distract Government from climate crisis",
             "description": "Protests distract Government from climate cr",
             "author": "Sue Arnold",
-            "date": 1637625600.0,
             "intensityScore": -0.802
-        },
+        }
+    ],
+    "24/11/2021": [
         {
-            "headline": " Bloody Idiot of the Week \u2014 Episode 24: Would Scomocchio lie?",
-            "description": "Bloody Idiot of the Week \u2014 Episode 24: Would Scomocchio ",
+            "headline": " Bloody Idiot of the Week — Episode 24: Would Scomocchio lie?",
+            "description": "Bloody Idiot of the Week — Episode 24: Would Scomocchio ",
             "author": "David Donovan and Michelle Pini",
-            "date": 1637730000.0,
             "intensityScore": -0.7351
         },
         {
             "headline": " Conspiracy cults breeding terrorism through protests",
             "description": "Conspiracy cults breeding terrorism through prot",
             "author": "Bilal Cleland",
-            "date": 1637726400.0,
             "intensityScore": -0.872
         },
         {
             "headline": " NBN remains a political football",
             "description": "NBN remains a political foot",
             "author": "Paul Budde",
-            "date": 1637697600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Peaceful protesters reject Far-Right violence",
             "description": "Peaceful protesters reject Far-Right viol",
             "author": "Martin Hirst",
-            "date": 1637712000.0,
             "intensityScore": -0.6705
-        },
+        }
+    ],
+    "25/11/2021": [
         {
-            "headline": " Morrison\u2019s top 10 bare-faced lies",
-            "description": "Morrison\u2019s top 10 bare-faced ",
+            "headline": " Morrison’s top 10 bare-faced lies",
+            "description": "Morrison’s top 10 bare-faced ",
             "author": "Michelle Pini",
-            "date": 1637784000.0,
             "intensityScore": -0.25
         },
         {
             "headline": " Don't punish the poor: Fines must be based on income",
             "description": "Don't punish the poor: Fines must be based on in",
             "author": "Gerry Georgatos",
-            "date": 1637798400.0,
             "intensityScore": 0.652
         },
         {
             "headline": " Morrison Government mistakes ABC for a department it can control",
             "description": "Morrison Government mistakes ABC for a department it can con",
             "author": "Dechlan Brennan",
-            "date": 1637812800.0,
             "intensityScore": -0.3612
-        },
+        }
+    ],
+    "26/11/2021": [
         {
-            "headline": " Flashback 2019: The blatant hypocrisy of Scott Morrison\u2019s Christian faith",
-            "description": "Flashback 2019: The blatant hypocrisy of Scott Morrison\u2019s Christian f",
+            "headline": " Flashback 2019: The blatant hypocrisy of Scott Morrison’s Christian faith",
+            "description": "Flashback 2019: The blatant hypocrisy of Scott Morrison’s Christian f",
             "author": "Richard Tuffin",
-            "date": 1637899200.0,
             "intensityScore": 0.4215
         },
         {
             "headline": " Liberal Party's bloody history forgotten as Morrison cries freedom",
             "description": "Liberal Party's bloody history forgotten as Morrison cries fre",
             "author": "Lee Duffield",
-            "date": 1637888400.0,
             "intensityScore": -0.3182
         },
         {
             "headline": " CARTOONS: Mark David takes his message to the masses",
             "description": "CARTOONS: Mark David takes his message to the ma",
             "author": "Mark David",
-            "date": 1637877600.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Scott Morrison's Medusa complex",
             "description": "Scott Morrison's Medusa com",
             "author": "Geoff Dyer",
-            "date": 1637870400.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "27/11/2021": [
         {
             "headline": " Corruption and extremism threaten government legitimacy",
             "description": "Corruption and extremism threaten government legiti",
             "author": "Bilal Cleland",
-            "date": 1637985600.0,
             "intensityScore": -0.3818
         },
         {
-            "headline": " WHAT'S ON: The Wheel of Time \u2014 almost magical",
-            "description": "WHAT'S ON: The Wheel of Time \u2014 almost mag",
+            "headline": " WHAT'S ON: The Wheel of Time — almost magical",
+            "description": "WHAT'S ON: The Wheel of Time — almost mag",
             "author": "Dan Jensen",
-            "date": 1637971200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Dutton commits to following U.S. into war for Taiwan",
             "description": "Dutton commits to following U.S. into war for Ta",
             "author": "Binoy Kampmark",
-            "date": 1637956800.0,
             "intensityScore": -0.5859
-        },
+        }
+    ],
+    "28/11/2021": [
         {
             "headline": " People living with disability have a dignified right to sex",
             "description": "People living with disability have a dignified right to",
             "author": "Graeme Sparkes",
-            "date": 1638075600.0,
             "intensityScore": 0.4939
         },
         {
             "headline": " Sexual abuse survival: How one woman's story helped heal another",
             "description": "Sexual abuse survival: How one woman's story helped heal ano",
             "author": "Jennifer Wilson",
-            "date": 1638061200.0,
             "intensityScore": -0.6369
         },
         {
             "headline": " Coalition derails Federal ICAC on technicality",
             "description": "Coalition derails Federal ICAC on technica",
             "author": "Ross Jones",
-            "date": 1638046800.0,
             "intensityScore": -0.3182
-        },
+        }
+    ],
+    "29/11/2021": [
         {
             "headline": " KERRYN PHELPS: Coalition threatened by Independent movement",
             "description": "KERRYN PHELPS: Coalition threatened by Independent move",
             "author": "Kerryn Phelps",
-            "date": 1638158400.0,
             "intensityScore": -0.4588
         },
         {
             "headline": " Coalition Government should've already closed our borders to Omicron",
             "description": "Coalition Government should've already closed our borders to Omi",
             "author": "Victoria Fielding",
-            "date": 1638144000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Morrison Government notches up 40 'worst on record' economic outcomes",
             "description": "Morrison Government notches up 40 'worst on record' economic outc",
             "author": "Alan Austin",
-            "date": 1638129600.0,
             "intensityScore": -0.6249
-        },
+        }
+    ],
+    "30/11/2021": [
         {
             "headline": " Scott Morrison renews crackdown on social media users",
             "description": "Scott Morrison renews crackdown on social media u",
             "author": "Jennifer Wilson",
-            "date": 1638216000.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Alan Tudge disappoints with new education strategy",
             "description": "Alan Tudge disappoints with new education stra",
             "author": "Abul Rizvi",
-            "date": 1638244800.0,
             "intensityScore": -0.3818
         },
         {
             "headline": " Scott Morrison invents his own polygraph test",
             "description": "Scott Morrison invents his own polygraph ",
             "author": "Rocky Dabscheck",
-            "date": 1638230400.0,
             "intensityScore": 0.0
-        },
+        }
+    ],
+    "01/12/2021": [
         {
             "headline": " China increases cyberwar tactics",
             "description": "China increases cyberwar tac",
             "author": "Paul Budde",
-            "date": 1638302400.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Federal insurance scheme needed to revitalise arts sector",
             "description": "Federal insurance scheme needed to revitalise arts se",
             "author": "Penelope Benton",
-            "date": 1638316800.0,
             "intensityScore": 0.0
         },
         {
             "headline": " Detained refugees denied access to library services",
             "description": "Detained refugees denied access to library serv",
             "author": "Marlon Toner-McLachlan",
-            "date": 1638331200.0,
             "intensityScore": -0.6808
         },
         {
-            "headline": " EDITORIAL: Morrison's\u00a0sexual harassment dog act trolls women",
-            "description": "EDITORIAL: Morrison's\u00a0sexual harassment dog act trolls w",
+            "headline": " EDITORIAL: Morrison's sexual harassment dog act trolls women",
+            "description": "EDITORIAL: Morrison's sexual harassment dog act trolls w",
             "author": "Michelle Pini",
-            "date": 1638343800.0,
             "intensityScore": -0.5423
-        },
+        }
+    ],
+    "02/12/2021": [
         {
-            "headline": " Morrison's\u00a0sexual harassment dog act trolls women",
-            "description": "Morrison's\u00a0sexual harassment dog act trolls w",
+            "headline": " Morrison's sexual harassment dog act trolls women",
+            "description": "Morrison's sexual harassment dog act trolls w",
             "author": "Michelle Pini",
-            "date": 1638388800.0,
             "intensityScore": -0.5423
         },
         {
             "headline": " Flashback 2019: Normalising Scott Morrison",
             "description": "Flashback 2019: Normalising Scott Morr",
             "author": "Jennifer Wilson",
-            "date": 1638421200.0,
             "intensityScore": 0.0
         },
         {
             "headline": " PM Morrison: The skipper who won't play with a straight bat",
             "description": "PM Morrison: The skipper who won't play with a straight",
             "author": "Geoff Dyer",
-            "date": 1638417600.0,
             "intensityScore": -0.0351
         },
         {
             "headline": " Blowing the whistle on umpire abuse",
             "description": "Blowing the whistle on umpire a",
             "author": "Vikki Watkins",
-            "date": 1638403200.0,
             "intensityScore": -0.6369
         }
     ]

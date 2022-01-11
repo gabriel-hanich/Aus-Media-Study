@@ -1,5 +1,8 @@
 # Imports
+from pickle import FALSE
 import sys
+
+from nltk.tree import Tree
 sys.path.append('../')
 
 import csv
@@ -21,15 +24,21 @@ from lib.data import getData, fileStringToDate
 
 # Constants
 dataVersion = 1 # Which dataset is used by the analyser
-doAutoEarlyDates = False # (Dis/En) able automatic date searching 
 topicWordsCount = 3 # Amount of keywords stored per day
+
+# User Settings
+doAutoEarlyDates = False # (Dis/En) able automatic date searching 
 doPOSTagging = False # (Dis/En) able POS tagging (Parts of Speech)
-doTitleWordsSearch = True # (Dis/En) able only analysing articles with certain keywords in the title
+doTitleWordsSearch = False # (Dis/En) able only analysing articles with certain keywords in the title
+doAllOutlets = True # Use the data from all or only a select few outlets
+doAnnotateChart = False # (Dis/En) able having most common word present on chart
+doIndividualPlots = False #(Dis/En) able having each media outlet on its on graph
 
-setEarlyDate = datetime.datetime(2021, 9, 15)
-setLateDate = datetime.datetime(2021, 12, 2)
+setEarlyDate = datetime.datetime(2021, 9, 25) # YYYY,MM,DD
+setLateDate = datetime.datetime(2021, 10, 10) # YYYY,MM,DD
 
-wantedTitleWords = ["gladys", "Berejiklian"]
+selectedOutlets = ["ABC News"]
+wantedTitleWords = ["john", "barilaro", "bruz"] # All terms MUST be in lowercase
 wantedPOS = ["NN", "NNS", "NNP", "NNPS", ]
 
 stopWords = stopwords.words("english") 
@@ -47,6 +56,13 @@ def daterange(date1, date2): # Returns list of dates between 2 dates
     for n in range(int ((date2 - date1).days)+1):
         yield date1 + datetime.timedelta(n)
 
+if not doAllOutlets:
+    newOutletList = []
+    for thisOutlet in outletsList:
+        if thisOutlet[0] in selectedOutlets:
+            newOutletList.append(thisOutlet)
+    print(newOutletList)
+    outletsList = newOutletList;
 
 # Convert JSON data to python classes
 outletList = []
@@ -79,8 +95,6 @@ latestDate = latestDate.replace(hour=0, minute=0)
 
 # Get dayDict for each outlet
 for mediaIndex, mediaOutlet in enumerate(outletList):
-    # mediaOutlet = outletList[0]
-    # mediaIndex = 0
     excludedCount = 0 # Counter that tracks how many articles are excluded due to search parameters
     dayDict = {}
     for date in daterange(earliestDate, latestDate):
@@ -90,15 +104,15 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
     for article in mediaOutlet.articleList:
         articleDate = article.date.replace(hour=0, minute=0)
         try:
-            if doTitleWordsSearch:
+            if doTitleWordsSearch: # If scanning for words in title
                 for word in word_tokenize(article.headline):
-                    if word.lower() in wantedTitleWords:
+                    if word.lower() in wantedTitleWords: # If title contains wanted word
                         dayDict[articleDate]["articles"].append(article)
                         break
             else:
                 dayDict[articleDate]["articles"].append(article)
 
-        except KeyError:
+        except KeyError: # Runs if article was made on day not included in search
             excludedCount += 1
 
     # Get average sentiment for day
@@ -118,15 +132,19 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
             for word in word_tokenize(article.headline):
                 articleWords.append(word)
 
+        articleWords = Counter(articleWords).most_common() # Start with the most common words and work down until enough matches are found
         filteredWords = []
         for word in articleWords:
-            if word.lower() not in stopWords:
-                if len(word) > 2:
-                    if doPOSTagging:
-                        if pos_tag([word])[0][1] in wantedPOS:
-                            filteredWords.append(word)
-                    else:
-                        filteredWords.append(word)
+            if len(filteredWords) == topicWordsCount:
+                break
+            else:
+                if word[0].lower() not in stopWords:
+                    if len(word[0]) > 2:
+                        if doPOSTagging:
+                            if pos_tag([word[0]])[0][1] in wantedPOS:
+                                filteredWords.append(word[0])
+                        else:
+                            filteredWords.append(word[0])
         filteredWords = list(Counter(filteredWords).most_common(topicWordsCount))
         dayDict[date]["topicWords"] = filteredWords
         if doPOSTagging:
@@ -135,20 +153,41 @@ for mediaIndex, mediaOutlet in enumerate(outletList):
 
     print(str(mediaIndex + 1) + "/" + str(len(outletList)))
 
-# Plot things
+# Plot daily articles
 for mediaOutlet in outletList:
-    #mediaOutlet = outletList[0]
     yList = []
+    compareList = []
     for date in list(mediaOutlet.dayDict.keys()):
         yVal = len(mediaOutlet.dayDict[date]["articles"])
         yList.append(yVal)
-        try:
-            plt.annotate(str(mediaOutlet.dayDict[date]["topicWords"][0][0]), [date, yVal])
-        except IndexError: # If date had no articles published, no topicwords are present
-            pass
 
     plt.plot(list(mediaOutlet.dayDict.keys()), yList, label=mediaOutlet.name)
+    if doIndividualPlots:
+        plt.title("Daily Articles published")
+        plt.legend()
+        plt.show()
 
+if not doIndividualPlots:
+    plt.title("Daily Articles published")
     plt.legend()
-    #plt.ylim(-1, 1)
     plt.show()
+
+# Plot daily average
+for mediaOutlet in outletList:
+    yList = []
+    compareList = []
+    for date in list(mediaOutlet.dayDict.keys()):
+        yVal = len(mediaOutlet.dayDict[date]["articles"])
+        yList.append(yVal)
+
+    plt.plot(list(mediaOutlet.dayDict.keys()), yList, label=mediaOutlet.name)
+    if doIndividualPlots:
+        plt.title("Daily Articles published")
+        plt.legend()
+        plt.show()
+
+if not doIndividualPlots:
+    plt.title("Daily Articles published")
+    plt.legend()
+    plt.show()
+
