@@ -10,7 +10,7 @@ from lib.data import getData, fileStringToDate
 
 
 # Constants
-dataVersion = 1
+dataVersion = 2
 analyser = SentimentIntensityAnalyzer()
 monthsDict = {
     "jan": 1,
@@ -44,7 +44,7 @@ for thisOutlet in mediaData:
 def daterange(date1, date2): # Returns list of dates between 2 dates
     for n in range(int ((date2 - date1).days)+1):
         yield date1 + datetime.timedelta(n)
-
+print("Running")
 for outletIndex, thisOutlet in enumerate(outletsList):
     earliestDate = datetime.datetime.fromtimestamp(time.time())
     latestDate = datetime.datetime(2021, 1, 1)
