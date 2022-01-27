@@ -3,12 +3,17 @@ class outlet:
         self.name = name
         self.articleList = []
         self.dayDict = {}
+        self.xVals, self.yVals, self.zVals = [], [], []
 
     def addArticle(self, article):
         self.articleList.append(article)
 
     def setDayDict(self, dayDict):
         self.dayDict = dayDict
+
+    def setVals(self, xVals, yVals, zVals):
+        self.xVals, self.yVals, self.zVals = xVals, yVals, zVals
+
 
 
 class article:
