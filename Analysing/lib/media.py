@@ -1,4 +1,4 @@
-class outlet:
+class Outlet:
     def __init__(self, name):
         self.name = name
         self.articleList = []
@@ -16,7 +16,7 @@ class outlet:
 
 
 
-class article:
+class Article:
     def __init__(self, headline, description, author, date, sentimentScore):
         self.headline = headline
         self.description = description

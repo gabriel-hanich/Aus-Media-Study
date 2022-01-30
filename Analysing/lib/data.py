@@ -1,7 +1,7 @@
 import csv
 import datetime
 
-def getData(data):
+def GetData(data):
     csvReader = csv.reader(data)
 
     result = []
