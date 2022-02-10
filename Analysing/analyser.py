@@ -147,7 +147,7 @@ if doTotalOutlets:
 if doSimilarWords:
     print("Searching For Similar Words")
     similarSearchWords = []
-    
+    reddit = praw.Reddit(client_id='GRD68owJs221Qw', client_secret='K1ug6GHtgHiKxkcHBpiO3ei7yRtDWQ', user_agent='Gabriel')if constants["titleSearchWords"]["doSimilarWords"]:
     all = reddit.subreddit("all") # Create subreddit object
     for sectionIndex, section in enumerate(titleSearchWords):
         sectionKeyWords = []

@@ -11,6 +11,12 @@ class Outlet:
     def setDayDict(self, dayDict):
         self.dayDict = dayDict
 
+    def addToDayDict(self, article, date):
+        try:
+            self.dayDict[date].append(article)
+        except KeyError:
+            self.dayDict[date] = [article]
+
     def setVals(self, xVals, yVals, zVals):
         self.xVals, self.yVals, self.zVals = xVals, yVals, zVals
 
